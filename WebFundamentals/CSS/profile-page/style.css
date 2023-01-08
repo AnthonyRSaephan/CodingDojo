@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+/* Generic CSS */
+.flex{
+    display: flex;
+}
+
+/* Justify Content */
+.justify-content-center{
+    justify-content: center;
+}
+
+.justify-content-space-between{
+    justify-content: space-between;
+}
+
+.justify-content-space-around{
+    justify-content: space-around;
+}
+
+.justify-content-space-evenly{
+    justify-content: space-evenly;
+}
+
+/* align items */
+.align-items-center{
+    align-items: center;
+}
+
+
+/* color */
+.color-white{
+    color: white;
+}
+
+.color-grey{
+    color: grey;
+}
+
+/* background color */
+.background-color-black{
+    background-color: black;
+}
+.background-color-dark-grey{
+    background-color: #444444;
+}
+
+.background-color-dodgerblue{
+    background-color: dodgerblue;
+}
+
+.background-color-lightgrey{
+    background-color: lightgray;
+}
+
+/* others */
+.background-circle{
+    border-radius: 50%;
+    width: 25%;
+    text-align: center;
+}
+
+.box-padding{
+    padding: 15px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.border-2px-grey{
+    border: 2px;
+    border-color: grey;
+    border-style: solid;
+}
+
+.panel-margin{
+    margin: 30px 15px;
+}
+
+
+
+/* Classes */
+
+.small-icon{
+    width: 3%;
+}
+
+.accept-decline-div{
+    width: 40%;
+}
+
+.accept-decline-icons{
+    width: 40%;
+}
+
+.other-user-images{
+    width: 50px;
+}
+
+.user-request{
+    margin-left: 10px;
+}
+
+.user-connections{
+    margin-left: 10px;
+}
+
+/* IDs */
+
+#top-nav{
+    width: 100%;
+    height: 50px;
+    margin-bottom: 50px;
+}
+
+#top-nav-left{
+    width: 35%;
+}
+
+#sign-out{
+    height: 70%;
+    /* padding: 0 25%; */
+    width: 100px;
+}
+
+#profile-text{
+    font-size: xx-large;
+}
+
+#left-column{
+    flex: 2
+}
+
+#right-column{
+    flex: 1
+}
+
+#main{
+    margin: 0px auto;
+    width: 1000px;
+}
+
+#user-image{
+    width: 15%;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+#blue-header{
+    height: 70px;
+}
+
+#top-left-body{
+    margin-top: 40px;
+}
+
+#top-left-body *{
+    margin-left: 15px;
+    margin-bottom: 7px;
+}
+
+#user-name{
+    font-size: xx-large;
+}
+
+#bottom-left p{
+    padding: 10px 25px;
+}

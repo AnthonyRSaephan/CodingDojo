@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Likes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- top -->
+    <div class="main-width bg-black">
+        <h1 class="color-white">Network</h1>
+    </div>
+
+    <h1 class="flex justify-content-center">Your Feed</h1>
+
+    <div class="flex container">
+        <!-- left column -->
+        <div class="veritcal-center border">
+            <img id="user-image" src="user-circle.png" alt="user circle">
+            <br>
+            <a href="#">Add an avatar</a>
+            <h2>James Doe</h2>
+        </div>
+        <!-- right column -->
+        <div>
+            <div class="border box">
+                <div class="flex justify-content-space-around top-div">
+                    <p>Neil M</p>
+                    <p><span id="neilM-likes">9</span> like(s)</p>
+                    <button class="bg-yellow" onclick="like('neilM-likes')">Like</button>
+                </div>
+                <div class="bottom-div">
+                    <p>I just set up this new discord bot, let me know what you all think. <a href="#">link</a></p>
+                </div>
+            </div>
+            <div class="border box">
+                <div class="flex justify-content-space-around top-div">
+                    <p>Nichole K</p>
+                    <p><span id="nicholeK-likes">9</span> like(s)</p>
+                    <button class="bg-yellow" onclick="like('nicholeK-likes')">Like</button>
+                </div>
+                <div class="bottom-div">
+                    <p>Just finished my <a href="#">next comic</a>, check it out.</p>
+                </div>
+
+            </div>
+            <div class="border box">
+                <div class="flex justify-content-space-around top-div">
+                    <p>Jim R</p>
+                    <p><span id="jimR-likes">9</span> like(s)</p>
+                    <button class="bg-yellow" onclick="like('jimR-likes')">Like</button>
+                </div>
+                <div class="bottom-div">
+                    <p>I can't stop listening to the <a href="#">new album</a>. Who else is liking it?</p>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

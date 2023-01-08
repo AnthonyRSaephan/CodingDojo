@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dojonary</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- top nav -->
+    <div class="bg-lightgrey flex justify-content-space-around align-items-center">
+        <h1>Dojonary</h1>
+        <input type="text" placeholder="Search">
+        <button class="bg-dodgerblue color-white" onclick="loginout(this)">Login</button>
+    </div>
+
+    <!-- main -->
+    <div id="main" class="flex">
+        <!-- left column -->
+        <div class="flex2">
+            <!-- first item -->
+            <div class="border flex justify-content-center">
+                <!-- left -->
+                <div class="flex1">
+                    <h2>ninja</h2>
+                    <em>noun</em>
+                    <p>Plural: ninjas</p>
+                    <button class="bg-yellow" onclick="alert('Ninja was liked')">13 likes</button>
+                </div>
+                <!-- right -->
+                <div class="flex2 defintion flex align-items-center">
+                    <p>A practitioner skilled in the <a href="#">Japanese</a> art of <a href="#">ninjutsu</a></p>
+                </div>
+            </div>
+            <!-- second item -->
+            <div class="border flex justify-content-center">
+                <!-- left -->
+                <div class="flex1">
+                    <h2>ninja</h2>
+                    <em>noun</em>
+                    <p>Plural: ninjas</p>
+                    <button class="bg-yellow" onclick="alert('Ninja was liked')">37 likes</button>
+                </div>
+                <!-- right -->
+                <div class="flex2 defintion flex align-items-center">
+                    <p>A<a href="#">programmer</a>who breaks down problerms with<a href="#">zen</a>-like focus</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- right column -->
+        <div id="right-column" class="flex justify-content-center align-items-center flex1 border">
+            <p class="bold">Dojonary is defined by YOU</p>
+            <button class="bg-green" onclick="(addDefinition(this))">Add Definition</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- top nav -->
+    <div class="flex justify-content-space-around background-color-black" id="top-nav">
+        <!-- left content -->
+        <div id="top-nav-left" class="flex align-items-center justify-content-space-between">
+            <p id="profile-text" class="bold color-white">Profile</p>
+            <p class="color-grey">Home</p>
+            <p class="bold color-white">My Profile</p>
+            <p class="color-grey">Find Connections</p>
+        </div>
+        <!-- right content -->
+        <div class="flex align-items-center">
+            <button id="sign-out" class="bold color-white background-color-dodgerblue">Sign Out</button>
+        </div>
+    </div>
+
+    <!-- main -->
+    <div id="main" class="flex justify-content-center">
+        <!-- left column -->
+        <div id="left-column">
+            <!-- top row -->
+            <div class="panel-margin border-2px-grey">
+                <!-- header -->
+                <div id="blue-header" class="background-color-dodgerblue">
+                    <img id="user-image" src="images\jane-m.jpg" alt="user circle">
+                </div>
+                <!-- body -->
+                <div id="top-left-body">
+                    <p class="bold" id="user-name">Jane Doe</p>
+                    <div class="flex align-items-center">
+                        <img class="small-icon" src="icons\map-marker.png" alt="map marker">
+                        <p>Seattle</p>
+                    </div>
+                    <p>Developer | Engineer | Problem Solver<br>Master of shadows and the Internet!</p>
+                    <div class="flex align-items-center">
+                        <img class="small-icon" src="icons\gear.png" alt="gear">
+                        <a href="#">edit profile</a>
+                    </div>
+                </div>
+            </div>
+            <!-- bottom row -->
+            <div id="bottom-left" class="panel-margin border-2px-grey">
+                <!-- Header -->
+                <div class="background-color-dark-grey">
+                    <p class="bold color-white">Education</p>
+                </div>
+                <!-- Body -->
+                <div id="bottom-left-body">
+                    <p class="bold">Coding Dojo - Full Stack Bootcamp</p>
+                    <p class="color-grey">Dec 2019 - Mar 2020</p>
+                    <p>Triple black belt in Python, MERN, and C#...</p>
+                </div>
+            </div>
+        </div>
+        <!-- right column -->
+        <div id="right-column">
+            <!-- top row -->
+            <div id="top-right-panel" class="panel-margin border-2px-grey">
+                <!-- Header -->
+                <div class="border-2px-grey box-padding background-color-dark-grey flex align-items-center">
+                    <p>2</p>
+                    <p class="bold color-white">Connection Requests</p>
+                </div>
+                <!-- Body -->
+                <div class="border-2px-grey">
+                    <!-- user -->
+                    <div class="box-padding flex justify-content-space-between">
+                        <div class="flex align-items-center">
+                            <img class="other-user-images" src="images\todd-s.jpg" alt="user circle">
+                            <p class="user-request">Todd E</p>
+                        </div>
+                        <div class="accept-decline-div flex align-items-center justify-content-space-around">
+                            <img class="accept-decline-icons" src="icons\accept-circle.png" alt="accept circle">
+                            <img class="accept-decline-icons" src="icons\close-circle.png" alt="close circle">
+                        </div>
+                    </div>
+                    <!-- user -->
+                    <div class="box-padding flex justify-content-space-between">
+                        <div class="flex align-items-center">
+                            <img class="other-user-images" src="images\phil-s.jpg" alt="user circle">
+                            <p class="user-request">Phil K</p>
+                        </div>
+                        <div class="accept-decline-div flex align-items-center justify-content-space-around">
+                            <img class="accept-decline-icons" src="icons\accept-circle.png" alt="accept circle">
+                            <img class="accept-decline-icons" src="icons\close-circle.png" alt="close circle">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- bottom row -->
+            <div class="panel-margin border-2px-grey">
+                <!-- Header -->
+                <div class="border-2px-grey box-padding background-color-dark-grey flex justify-content-space-around">
+                    <p class="bold background-color-lightgrey background-circle">500+</p>
+                    <p class="bold color-white">Your Connections</p>
+                </div>
+                <!-- Body -->
+                <div class="border-2px-grey box-padding">
+                    <!-- user -->
+                    <div class="flex align-items-center">
+                        <img class="other-user-images" src="images\adrien-s.jpg" alt="user circle">
+                        <p class="bold user-connections">Adrien D</p>
+                    </div>
+                    <!-- user -->
+                    <div class="flex align-items-center">
+                        <img class="other-user-images" src="images\anne-s.jpg" alt="user circle">
+                        <p class="bold user-connections">Anne J</p>
+                    </div>
+                    <!-- user -->
+                    <div class="flex align-items-center">
+                        <img class="other-user-images" src="images\alayne-s.jpg" alt="user circle">
+                        <p class="bold user-connections">Alayne T</p>
+                    </div>
+                    <!-- user -->
+                    <div class="flex align-items-center">
+                        <img class="other-user-images" src="images\arry-s.jpg" alt="user circle">
+                        <p class="bold user-connections">Arry Y</p>
+                    </div>
+                </div>
+                <!-- Bottom -->
+                <div class="border-2px-grey box-padding">
+                    <a href="#">View More</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

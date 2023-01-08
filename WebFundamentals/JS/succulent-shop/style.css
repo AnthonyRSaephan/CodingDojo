@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 5px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+/* Generic CSS */
+
+.flex{
+    display: flex;
+}
+
+.flex1{
+    flex: 1;
+}
+
+.flex2{
+    flex: 2;
+}
+
+.flex3{
+    flex: 3
+}
+
+.flex4{
+    flex: 4;   
+}
+
+.flex5{
+    flex: 5;
+}
+
+/* flex-direction */
+
+.flex-row{
+    flex-direction: row;
+}
+
+.flex-column{
+    flex-direction: column;
+}
+
+.flex-row-reverse{
+    flex-direction: row-reverse;
+}
+
+.flex-column-reverse{
+    flex-direction: column-reverse;
+}
+
+/* Justify Content */
+
+.justify-content-center{
+    justify-content: center;
+}
+
+.justify-content-space-between{
+    justify-content: space-between;
+}
+
+.justify-content-space-around{
+    justify-content: space-around;
+}
+
+.justify-content-space-evenly{
+    justify-content: space-evenly;
+}
+
+
+/* align */
+.align-items-center{
+    align-items: center;
+}
+
+.text-align-center{
+    text-align: center;
+}
+
+
+/* color */
+.color-white{
+    color: white;
+}
+
+.color-grey{
+    color: grey;
+}
+
+/* background color */
+.bg-green{
+    background-color: #00d1b2;
+}
+
+.bg-lightgreen{
+    background-color: #aae8d8;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+/* other */
+
+.width-full{
+    width: 100%;
+}
+
+.height-full{
+    height: 100%;
+}
+
+.width-auto{
+    width: auto;
+}
+
+.height-auto{
+    height: auto;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.big-text{
+    font-size: xx-large;
+}
+
+.object-fit-cover{
+    object-fit: cover;
+}
+
+/* class */
+
+.black-border{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.round{
+    border-radius: 50%;
+}
+
+.light-arrow{
+    width: 25px;
+}
+
+.black-underline{
+    border-bottom-width: 6px;
+    border-style: solid;
+    border-color: black;
+    border-right-style: none;
+    border-left-style: none;
+    border-top-style: none;
+}
+
+.icon-size{
+    width: 40px;
+}
+
+.box-margin{
+    width: 800px;
+    margin: 10px auto;
+}
+
+.global-margin{
+    margin: 5px;
+}
+
+.small-image{
+    width: 100px;
+}
+
+.black-shadow{
+    box-shadow: 3px 3px black;
+}
+
+/* id */
+
+#accept-cookies-button{
+    width: 200px;
+}
+
+#smaller-image{
+    padding: 0;
+    margin-bottom: 15px;
+}
+
+#big-box{
+    margin-right: 0px;
+    padding: 0;
+}
+
+#big-image{
+    margin-left: 0px;
+    padding: 0;
+    margin: 0;
+}
+
+#search-bar{
+    border-radius: 30px;
+}
+
+#right-box{
+    margin: 5px;
+}
+
+#soothing-aloe{
+    margin-left: 25px;
+}
+
+#accept-cookies{
+    width: 800px;
+    margin: 0 auto;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    align-items: center;
+}
