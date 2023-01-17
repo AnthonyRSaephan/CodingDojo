@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play Repeat Color</title>
+    <style>
+        .box {
+            background-color: {{color}};
+        }
+    </style>
+</head>
+<body>
+    <h1 style="justify-content: center; display: flex;">Welcome!</h1>
+    <div style="justify-content: center; align-items: center; display: flex; flex-wrap: wrap;">
+        {% for i in range(0, repeat): %}
+            <div class="box" style="width: 200px; height: 200px; border: 5px solid black; margin: 25px;"></div>
+        {% endfor %}
+    </div>
+</body>
+</html>
+
