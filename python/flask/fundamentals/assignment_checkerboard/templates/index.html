@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkerboard</title>
+    <link rel="stylesheet" href="{{url_for('static', filename='/css/style.css')}}">
+</head>
+<body>
+    <!-- container -->
+    <div class="grid-container">
+        <div class="grid" style="grid-template-columns: repeat({{x}}, 50px); grid-template-rows: repeat({{y}}, 50px);">
+            {% for i in range(0, y): %}
+                {% for j in range(0, x): %}
+                    {% if i % 2 == 0: %}
+                        {% if j % 2 == 1: %}
+                            <div class="box" style="background-color: {{color2}};">{{i}},{{j}}</div>
+                        {% else: %}
+                        <div class="box" style="background-color: {{color1}};">{{i}},{{j}}</div>
+                        {% endif %}
+                    {% else: %}
+                        {% if j % 2 == 0 %}
+                            <div class="box" style="background-color: {{color2}};">{{i}},{{j}}</div>
+                        {% else: %}
+                            <div class="box" style="background-color: {{color1}};">{{i}},{{j}}</div>
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

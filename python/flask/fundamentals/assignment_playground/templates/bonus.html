@@ -9,7 +9,9 @@
 <body>
     <h1 style="display: flex; justify-content: center;">Welcome!</h1>
     <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-        <div style="width: 200px; height: 200px; background-color: skyblue; border: 5px solid black; margin: 25px;"></div>
+        {% for i in range(0, repeat) %}
+            <div style="width: 200px; height: 200px; background-color: {{color}}; border: 5px solid black; margin: 25px;"></div>
+        {% endfor %}
     </div>
 </body>
 </html>
