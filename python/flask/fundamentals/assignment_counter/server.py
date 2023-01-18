@@ -1,4 +1,4 @@
-from flask import Flask, session, redirect, render_template
+from flask import Flask, session, redirect, render_template, request
 app = Flask(__name__)
 app.secret_key = "secret"
 
@@ -9,11 +9,16 @@ def index():
     else:
         session["count"] = 1
     
+    if "visits" in session:
+        session["visits"] += 1
+    else:
+        session["visits"] = 1
+    
     return render_template("index.html")
 
 @app.route("/destroy_session")
 def destroy_session():
-    session.clear()
+    session["count"] = 1
     print("Session cleared")
     return redirect("/")
 
@@ -22,13 +27,12 @@ def add_two():
     session["count"] += 1
     return redirect("/")
 
-@app.route("/increment_by")
+@app.route("/increment_by", methods=["POST"])
 def increment_by():
-    print(session.get("increment_by"))
     current = session["count"]
-    if "increment_by" in session:
-        increment = int(session["increment_by"])
-        current = int(current)
+    if request.form["increment_by"] != "":
+        increment = int(request.form["increment_by"])
+        current = session["count"]
         current = current + increment - 1
         session["count"] = current
         return redirect("/")
