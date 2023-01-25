@@ -1,9 +1,10 @@
 from flask import flash
 from flask_app.config.mysqlconnection import connectToMySQL
-from flask_app import DATABASE
+from flask_app import DATABASE, app
+from flask_bcrypt import Bcrypt     
 import re
-import sys
 EMAIL_REGEX = re.compile(r'^[a-zA-Z0-9.+_-]+@[a-zA-Z0-9._-]+\.[a-zA-Z]+$') 
+bcrypt = Bcrypt(app)
 
 class User():
 
@@ -118,7 +119,19 @@ class User():
         if data["password"] != data["confirm_password"]:
             flash("Passwords do not match.")
             is_valid = False
-        flash("test")
+        return is_valid
+
+    @staticmethod
+    def validate_login(data):
+        is_valid = True
+        user = User.get_user_by_email(data["email"])
+        if not user:
+            is_valid = False
+        
+
+        
+        if is_valid == False:
+            flash("Invalid Credentials")
         return is_valid
 
 

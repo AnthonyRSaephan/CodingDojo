@@ -5,7 +5,6 @@ from flask_app.models import user_model
 @app.route('/')
 @app.route('/login_register')
 def login_register():
-    session.clear()
     return render_template('login_register.html')
 
 @app.route('/users/login', methods=['POST'])
