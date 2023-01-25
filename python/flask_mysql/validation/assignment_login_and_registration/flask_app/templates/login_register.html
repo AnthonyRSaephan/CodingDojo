@@ -15,7 +15,7 @@
             <div class="col-4 bg-dark-subtle">
                 <h1 class="text-primary">Register</h1>
                 <form action="/users/register" method="post">
-                    {% with messages = get_flashed_messages() %}
+                    {% with messages = get_flashed_messages(category_filter=["register"]) %}
                         {% if messages %}
                             {% for message in messages %}
                                 <p class="text-danger">{{message}}</p>
@@ -38,6 +38,13 @@
             </div>
             <div class="col-4 bg-dark-subtle">
                 <h1 class="text-success">Login</h1>
+                {% with messages = get_flashed_messages(category_filter=["login"]) %}
+                    {% if messages %}
+                        {% for message in messages %}
+                            <p class="text-danger">{{message}}</p>
+                        {% endfor %}
+                    {% endif %}
+                {% endwith %}
                 <form action="/users/login" method="post">
                     <p>Email:</p>
                     <input type="email" name="email">

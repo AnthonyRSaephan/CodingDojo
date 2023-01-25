@@ -23,13 +23,29 @@ class User():
             INSERT INTO users (first_name, last_name, email, password)
             VALUES (%(first_name)s, %(last_name)s, %(email)s, %(password)s);
         """
+        password_hash = bcrypt.generate_password_hash(data["password"])
+        data = {
+            **data,
+            "password": password_hash
+        }
 
         return connectToMySQL(DATABASE).query_db(query, data)
 
     
     @classmethod
-    def get_all(cls):
-        pass
+    def get_user_by_email(cls, email):
+        query = """
+            SELECT * FROM users
+            WHERE id = %(email)s;
+        """
+        data = {
+            "email" : email
+        }
+
+        results = connectToMySQL(DATABASE).query_db(query, data)
+        if results:
+            return cls(results[0])
+        return False
 
     @classmethod
     def update(cls, data):
@@ -75,49 +91,53 @@ class User():
         results = connectToMySQL(DATABASE).query_db(query, data)
         if results:
             for row in results:
+                print(row)
                 return cls(row)
+            return False
+            
 
 
     @staticmethod
     def validate_user(data):
         is_valid = True
         if data["first_name"] == "":
-            flash("First name is required.")
+            flash("First name is required.", "register")
             is_valid = False
         elif not data["first_name"].isalpha():
-            flash("First name alphanumeric. only letters, numbers")
+            flash("First name alphanumeric. only letters, numbers", "register")
             is_valid = False
         elif len(data["first_name"]) < 2:
-            flash("First name must be at least 2 characters.")
+            flash("First name must be at least 2 characters.", "register")
             is_valid = False
         elif len(data["first_name"]) > 255:
-            flash("First name must be less than 255 characters.")
+            flash("First name must be less than 255 characters.", "register")
             is_valid = False
         
         if data["last_name"] == "":
-            flash("Last name is required.")
+            flash("Last name is required.", "register")
             is_valid = False
         elif not data["last_name"].isalpha():
-            flash("Last name alphanumeric. only letters, numbers")
+            flash("Last name alphanumeric. only letters, numbers", "register")
             is_valid = False
         elif len(data["last_name"]) < 2:
-            flash("Last name must be at least 2 characters.")
+            flash("Last name must be at least 2 characters.", "register")
             is_valid = False
         elif len(data["last_name"]) > 255:
-            flash("Last name must be less than 255 characters.")
+            flash("Last name must be less than 255 characters.", "register")
+            is_valid = False
+
+        if not EMAIL_REGEX.match(data["email"]):
+            flash("Email must be a valid email address.", "register")
+            is_valid = False
+        elif User.get_user_by_email(data["email"]):
+            flash("Email already exists.", "register")
             is_valid = False
         
-        if not EMAIL_REGEX.match(data["email"]):
-            flash("Email must be a valid email address.")
-            is_valid = False
-        if User.get_user_by_email(data["email"]):
-            flash("Email already exists.")
-            is_valid = False
         if len(data["password"]) < 8:
-            flash("Password must be at least 8 characters.")
+            flash("Password must be at least 8 characters.", "register")
             is_valid = False
         if data["password"] != data["confirm_password"]:
-            flash("Passwords do not match.")
+            flash("Passwords do not match.", "register")
             is_valid = False
         return is_valid
 
@@ -128,10 +148,15 @@ class User():
         if not user:
             is_valid = False
         
+        if len(data["password"]) < 1:
+            is_valid = False
+        elif user and not bcrypt.check_password_hash(user.password, data["password"]):
+            is_valid = False
+
 
         
         if is_valid == False:
-            flash("Invalid Credentials")
+            flash("Invalid Credentials", "login")
         return is_valid
 
 
