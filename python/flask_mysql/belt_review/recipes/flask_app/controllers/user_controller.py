@@ -6,6 +6,8 @@ bcrypt = Bcrypt(app)
 
 @app.route('/')
 def index():
+    # if "id" in session:
+    #     return redirect("/recipes")
     return render_template('index.html')
 
 @app.route('/users/login', methods=['POST'])
@@ -18,7 +20,7 @@ def users_login():
     session["first_name"] = user.first_name
     session["last_name"] = user.last_name
     session["email"] = user.email
-    return redirect("/dashboard")
+    return redirect("/recipes")
 
 
 @app.route('/users/register', methods=['POST'])
@@ -26,16 +28,15 @@ def users_register():
     is_valid = user_model.User.validate_user(request.form)
     if not is_valid:
         return redirect("/")
-    return redirect("/users/login")
+    user_id = user_model.User.create(request.form)
+    user = user_model.User.get_user_by_id(user_id)
+    session["id"] = user.id
+    session["first_name"] = user.first_name
+    session["last_name"] = user.last_name
+    session["email"] = user.email
+    return redirect("/recipes")
 
-@app.route("/recipes")
-def recipes():
-    if "id" not in session:
-        return redirect("/")
-    
-    return render_template("recipes.html")
-
-@app.route("/logout", methods=['POST'])
+@app.route("/logout")
 def logout():
     session.clear()
     return redirect("/")

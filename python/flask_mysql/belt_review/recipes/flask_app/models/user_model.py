@@ -35,6 +35,21 @@ class User():
 
 # =========================== READ =========================
     @classmethod
+    def get_user_by_id(cls, id):
+        query = """
+            SELECT * FROM users
+            WHERE id = %(id)s;
+        """
+        data = {
+            "id" : id
+        }
+
+        results = connectToMySQL(DATABASE).query_db(query, data)
+        if results:
+            for row in results:
+                return cls(row)
+
+    @classmethod
     def get_user_by_email(cls, email):
         query = """
             SELECT * FROM users
