@@ -84,17 +84,64 @@ class Recipe:
                 recipe = cls(recipe_data)
                 user_recipe_list.append([user, recipe])
             return user_recipe_list
-        return False
+        return []
+    
+    @classmethod
+    def get_recipe_and_user(cls, recipe_id):
+        query = """
+            SELECT * FROM recipes
+        JOIN users
+        ON recipes.user_id = users.id
+        WHERE recipes.id = %(id)s;
+        """
 
+        data = {
+            "id": recipe_id
+        }
+
+        results = connectToMySQL(DATABASE).query_db(query, data)
+        if results:
+            user_data = {
+                **results[0],
+                "id": results[0]["users.id"],
+                "created_at": results[0]["users.created_at"],
+                "updated_at": results[0]["users.updated_at"],
+            }
+            user = user_model.User(user_data)
+            recipe = cls(results[0])
+            user.recipe = recipe
+            return user
+
+        return False
     # ============================== UPDATE ===================================
     @classmethod
     def update_recipe(cls, data):
-        pass
+        query = """
+            UPDATE recipes
+            SET
+            name = %(name)s,
+            description = %(description)s,
+            instructions = %(instructions)s,
+            date_cooked_made = %(date_cooked_made)s,
+            under_30_minutes = %(under_30_minutes)s
+            WHERE id = %(id)s
+        """
+
+        connectToMySQL(DATABASE).query_db(query, data)
+
 
     # ============================== DELETE ===================================
     @classmethod
     def delete_recipe(cls, id):
-        pass
+        query = """
+            DELETE FROM recipes WHERE id = %(id)s;
+        """
+
+        data ={
+            "id": id
+        }
+
+        connectToMySQL(DATABASE).query_db(query, data)
 
     # ============================== VALIDATION ===================================
     @staticmethod

@@ -57,11 +57,11 @@
                     {{row[0].first_name}}
                 </div>
                 <div class="col">
-                    <a href="">view recipe</a> 
+                    <a href="/recipes/{{row[1].id}}">view recipe</a> 
                     {% if session["id"] == row[0].id %}
                         |
-                        <a href="/recipes/edit/{{session["id"]}}">edit</a> |
-                        <a href="">delete</a>
+                        <a href="/recipes/edit/{{row[1].id}}">edit</a> |
+                        <a href="/recipes/delete/{{row[1].id}}">delete</a>
                     {% endif %}
                 </div>
             </div>
