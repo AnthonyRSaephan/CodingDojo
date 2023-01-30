@@ -24,6 +24,7 @@ getUsers();
 var form = document.getElementById('userForm')
 console.log(form)
 form.onsubmit = function(event){
+    console.log(form)
     event.preventDefault();
     var myForm = document.getElementById('userForm');
     var form = new FormData(myForm)
