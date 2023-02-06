@@ -39,18 +39,17 @@
         
         document.getElementById("hover-this").onmouseout = () => setBackgroundColorById("body", "white");
         
-        function getValueFromId(id) {
-            return document.getElementById(id).value;
-        }
+        const getValueFromId = (id) => document.getElementById(id).value;
 
-        
-
-        function setBackgroundColorById(id, color) {
+        const setBackgroundColorById = (id, color) => {
             document.getElementById(id).style = "background-color: " + color;
         }
-        function mouseOverFunction(el) {
+
+        const mouseOverFunction = (el) => {
             el.style = "background-color: black";
         }
+
+        document.getElementById("paragraph").addEventListener("mouseenter", () => setBackgroundColorById("paragraph", "red"))
     </script>
 </body>
 
