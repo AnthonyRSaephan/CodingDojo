@@ -1,20 +1,38 @@
-const person = {
-    firstName: 'Bob',
-    lastName: 'Marley',
-    email: 'bob@marley.com',
-    password: 'sekureP@ssw0rd9',
-    username: 'barley',
-    addresses: [
-        {
-            address: '1600 Pennsylvania Avenue',
-            city: 'Washington, D.C.',
-            zipcode: '20500',
-        },
-        {
-            address: '221B Baker St.',
-            city: 'London',
-            zipcode: 'WC2N 5DU',
+class Deck {
+    constructor() {
+        const suits = ['Diamond', 'Heart', 'Spade', 'Club'];
+        const faces = ['Ace', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', 'King'];
+        const deck = [];
+        for (const suit of suits) {
+            for (const face of faces) {
+                deck.push(this.createCard(suit, face));
+            }
         }
-    ],
-    createdAt: 1543945177623
-};
+        this.deck = deck;
+    }
+}
+
+class Deck {
+    constructor() {
+        const suits = ['Diamond', 'Heart', 'Spade', 'Club'];
+        const faces = ['Ace', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', 'King'];
+        const deck = [];
+        suits.forEach(function (suit) {
+            faces.forEach(function (face) {
+                deck.push(this.createCard(suit, face));
+            });
+        });
+        this.deck = deck;
+    }
+}
+
+class Deck {
+    constructor() {
+        suits.forEach(suit => {
+            faces.forEach(face => {
+                deck.push(this.createCard(suit, face));
+            });
+        });
+    }
+}
+
