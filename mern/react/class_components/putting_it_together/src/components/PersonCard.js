@@ -8,23 +8,22 @@ export class PersonCard extends Component {
         }
     }
 
-    
+    incrementBirthday = () => {
+        // console.log(`Birthday is now ${this.state.age}`) oops this didn't console as expected. Forgot to not use this
+        this.setState({
+            age: this.state.age + 1
+        })
+    }
 
     render() {
         const {firstName, lastName, hairColor} = this.props
 
-        const incrementBirthday = () => {
-            // console.log(`Birthday is now ${this.state.age}`) oops this didn't console as expected. Forgot to not use this
-            this.setState({
-                age: this.state.age + 1
-            })
-        }
         return (
             <div>
                 <h1>{lastName}, {firstName}</h1>
                 <p>Age: {this.state.age}</p>
                 <p>Hair Color: hairColor</p>
-                <button onClick={incrementBirthday}>Birthday Button for {firstName} {lastName}</button>
+                <button onClick={this.incrementBirthday}>Birthday Button for {firstName} {lastName}</button>
             </div>
         )
     }

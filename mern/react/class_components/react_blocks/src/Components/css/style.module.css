@@ -1,0 +1,21 @@
+.advertisement{
+    background-color: rebeccapurple;
+}
+
+.header{
+    background-color: forestgreen;
+    width: 100px;
+    height: 100px;
+}
+
+.main{
+    background-color: crimson;
+}
+
+.navigation{
+    background-color: skyblue;
+}
+
+.subContents{
+    background-color: yellow;
+}
