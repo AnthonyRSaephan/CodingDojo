@@ -1,7 +1,11 @@
-setTimeout(function () {
-    console.log("start")
-}, 3000);
+const groceryList = Object.freeze([
+    { "item": "carrots", "haveIngredient": false },
+    { "item": "onions", "haveIngredient": true },
+    { "item": "celery", "haveIngredient": false },
+    { "item": "cremini mushrooms", "haveIngredient": false },
+    { "item": "butter", "haveIngredient": true }
+]);
 
-console.log("end");
-
-
+groceryList[0].item = "Test Item"
+console.table(groceryList)
+groceryList.push({}) // expect an error because of freeze
