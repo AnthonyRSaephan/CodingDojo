@@ -1,9 +1,10 @@
 import React, { Component } from 'react'
+import styles from '../css/styles.module.css'
 
 export class Advertisement extends Component {
     render() {
         return (
-            <div>Advertisement</div>
+            <div className={styles.advertisement}>Advertisement</div>
         )
     }
 }

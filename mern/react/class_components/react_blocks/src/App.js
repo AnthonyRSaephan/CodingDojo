@@ -5,11 +5,12 @@ import Navigation from './Components/Navigation.jsx';
 import Main from './Components/Main.jsx';
 import SubContents from './Components/SubContents.jsx';
 import Advertisement from './Components/Advertisement.jsx';
+import styles from "./css/styles.module.css"
 
 
 function App() {
   return (
-    <div className="app">
+    <div className={styles.container}>
       <Header />
       <Navigation />
       <Main>

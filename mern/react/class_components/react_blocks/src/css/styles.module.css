@@ -1,0 +1,38 @@
+.advertisement{
+    background-color: rebeccapurple;
+}
+
+.header{
+    background-color: forestgreen;
+    height: 100px;
+    height: 20%;
+    margin: 15px;
+}
+
+.main{
+    background-color: crimson;
+    display: inline-block;
+    width: 50%;
+    margin: 15px;
+    align-self: ;
+}
+
+.navigation{
+    background-color: skyblue;
+    height: 50%;
+    width: 20%;
+    margin: 15px;
+    display: inline-block;
+}
+
+.subContents{
+    background-color: yellow;
+}
+
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: gray;
+    margin: 50px auto auto auto;
+    padding: 15px;
+}
