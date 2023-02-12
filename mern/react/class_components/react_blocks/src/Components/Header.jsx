@@ -4,7 +4,7 @@ import styles from '../css/styles.module.css'
 export class Header extends Component {
     render() {
         return (
-            <div className={styles.header}>Header</div>
+            <div className={styles.header}></div>
         )
     }
 }

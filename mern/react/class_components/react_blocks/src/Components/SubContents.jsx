@@ -4,7 +4,7 @@ import styles from '../css/styles.module.css'
 export class SubContents extends Component {
     render() {
         return (
-            <div className={styles.subContents}>SubContents</div>
+            <div className={styles.subContents}></div>
         )
     }
 }

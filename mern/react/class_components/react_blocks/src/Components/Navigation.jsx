@@ -4,7 +4,7 @@ import styles from '../css/styles.module.css'
 export class Navigation extends Component {
     render() {
         return (
-            <div className={styles.navigation}>Navigation</div>
+            <div className={styles.navigation}></div>
         )
     }
 }

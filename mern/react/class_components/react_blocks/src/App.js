@@ -12,13 +12,15 @@ function App() {
   return (
     <div className={styles.container}>
       <Header />
-      <Navigation />
-      <Main>
-        <SubContents />
-        <SubContents />
-        <SubContents />
-        <Advertisement />
-      </Main>
+      <div className={styles.flex }>
+        <Navigation />
+        <Main>
+          <SubContents />
+          <SubContents />
+          <SubContents />
+          <Advertisement />
+        </Main>
+      </div>
     </div>
   );
 }
