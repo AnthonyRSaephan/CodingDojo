@@ -11,14 +11,27 @@ function App() {
     setTasks([...tasks, {text:task, completed: false}])
   }
 
+  const deleteTask = (index) => {
+    const newTasksList = tasks.filter((task, idx) => {
+      return index != idx
+    })
+    setTasks(newTasksList)
+  }
+
   const updateCompleted = (bool, index) => {
-    tasks[index].completed = bool
+    const updatedTasks = tasks.map((task, idx) => {
+      if(index == idx){
+        task.completed = bool
+      }
+      return task
+    })
+    setTasks(updatedTasks)
   }
 
   return (
     <div className="App">
       <Form addTask = {addTask} />
-      <Display allTasks = {tasks} updateCompleted = {updateCompleted}/>
+      <Display allTasks = {tasks} updateCompleted = {updateCompleted} deleteTask = {deleteTask}/>
     </div>
   );
 }
