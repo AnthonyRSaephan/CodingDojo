@@ -18,7 +18,7 @@ const Display = (props) => {
                 {
                     pokemonList ? 
                     pokemonList.map((item, index) => {
-                        return <li key={index} style={listStyle()}>{item}</li>
+                        return <li key={index} style={listStyle()}>{item.name}</li>
                     })
                     // pokemonList.map((pokemon, index) => {
                     //     return "hello"

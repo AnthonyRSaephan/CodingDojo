@@ -3,7 +3,7 @@ import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css"
 import Display from './Components/Display';
 import {useState} from "react"
-import axois from "axios"
+import axios from "axios"
 
 function App() {
 	const [pokemonList, setPokemonList] = useState()
@@ -13,18 +13,16 @@ function App() {
 
 	// console.log(pokemonList.length)
 
-	const getPokemons = async() => {
+	const getPokemons = () => {
 		if(buttonPressed == false){
 			setButtonPressed(true)
 			setLoading(true)
-			const newPokemonList = []
-			for(let i = 1; i <= pokemonCount; i++){
-				await axois.get(`https://pokeapi.co/api/v2/pokemon/${i}`).then((response) => {
-					newPokemonList.push(response.data.name)
-				}).catch(error => console.log(error))
-			}
+			axios.get("https://pokeapi.co/api/v2/pokemon?limit=100000&offset=0").then(response => {
+				const newPokemonList = response.data.results
+				setPokemonList(newPokemonList)
+			})
 			// console.log(newPokemonList)
-			setPokemonList(newPokemonList)
+			
 		}
 	}
 
