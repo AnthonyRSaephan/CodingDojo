@@ -19,6 +19,7 @@ module.exports.getOne = (request, response) => {
 }
 
 module.exports.create = (request, response) => {
+    console.log(request.body)
     Joke.create(request.body)
         .then(newJoke => {
             response.json(newJoke)
@@ -42,5 +43,14 @@ module.exports.deleteOne = (request, response) => {
             response.json(deletedJoke)
         }).catch(error => {
             response.json(error)
+        })
+}
+
+module.exports.getRandom = (request, response) => {
+    Joke.aggregate([{$sample: {size: 1}}])
+        .then(randomJoke => {
+            response(randomJoke)
+        }).catch(error => {
+            response(error)
         })
 }

@@ -7,7 +7,7 @@ const JokeSchema = new mongoose.Schema({
         required: [true, "Setup is required"]
     },
     punchline: {
-        type: Number,
+        type: String,
         minLength: [3, "Punchline has to be at least 3 characters"],
         required: [true, "Punchline is required"]
     }
