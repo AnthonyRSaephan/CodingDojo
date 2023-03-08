@@ -1,0 +1,15 @@
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\language_essentials\fundamentals_ii\bin\Debug\net6.0\fundamentals_ii.exe
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\language_essentials\fundamentals_ii\bin\Debug\net6.0\fundamentals_ii.deps.json
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\language_essentials\fundamentals_ii\bin\Debug\net6.0\fundamentals_ii.runtimeconfig.json
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\language_essentials\fundamentals_ii\bin\Debug\net6.0\fundamentals_ii.dll
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\language_essentials\fundamentals_ii\bin\Debug\net6.0\fundamentals_ii.pdb
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\language_essentials\fundamentals_ii\obj\Debug\net6.0\fundamentals_ii.csproj.AssemblyReference.cache
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\language_essentials\fundamentals_ii\obj\Debug\net6.0\fundamentals_ii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\language_essentials\fundamentals_ii\obj\Debug\net6.0\fundamentals_ii.AssemblyInfoInputs.cache
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\language_essentials\fundamentals_ii\obj\Debug\net6.0\fundamentals_ii.AssemblyInfo.cs
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\language_essentials\fundamentals_ii\obj\Debug\net6.0\fundamentals_ii.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\language_essentials\fundamentals_ii\obj\Debug\net6.0\fundamentals_ii.dll
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\language_essentials\fundamentals_ii\obj\Debug\net6.0\refint\fundamentals_ii.dll
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\language_essentials\fundamentals_ii\obj\Debug\net6.0\fundamentals_ii.pdb
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\language_essentials\fundamentals_ii\obj\Debug\net6.0\fundamentals_ii.genruntimeconfig.cache
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\language_essentials\fundamentals_ii\obj\Debug\net6.0\ref\fundamentals_ii.dll
