@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\OOPWithCSharp\\GameDeveloper1\\GameDeveloper1.csproj",
+      "projectUniqueName": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\OOPWithCSharp\\GameDeveloper2\\GameDeveloper1.csproj",
       "projectName": "GameDeveloper1",
-      "projectPath": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\OOPWithCSharp\\GameDeveloper1\\GameDeveloper1.csproj",
+      "projectPath": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\OOPWithCSharp\\GameDeveloper2\\GameDeveloper1.csproj",
       "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\OOPWithCSharp\\GameDeveloper1\\obj\\",
+      "outputPath": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\OOPWithCSharp\\GameDeveloper2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\antho\\AppData\\Roaming\\NuGet\\NuGet.Config"

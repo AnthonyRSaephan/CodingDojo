@@ -5,11 +5,7 @@ class Attack{
             return this.name;
         }
     }
-    int damage{
-        get{
-            return damage;
-        }
-    }
+    public int damage;
 
     public Attack(string name, int damage){
         this.name = name;
