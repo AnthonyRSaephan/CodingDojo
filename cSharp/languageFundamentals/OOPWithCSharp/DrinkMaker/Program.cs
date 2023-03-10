@@ -5,5 +5,5 @@ List<Drink> allBeverages = new List<Drink>(){pepsi, starbucks, redWine};
 foreach(Drink drink in allBeverages){
     drink.showDrink();
 }
-Coffee MyDrink = new Soda("Pepsi", "Blue", 40, true, 400, false);
+// Coffee MyDrink = new Soda("Pepsi", "Blue", 40, true, 400, false);
 // Cannot convert type Soda to Coffee. Soda is a Drink but Soda is not Coffee
