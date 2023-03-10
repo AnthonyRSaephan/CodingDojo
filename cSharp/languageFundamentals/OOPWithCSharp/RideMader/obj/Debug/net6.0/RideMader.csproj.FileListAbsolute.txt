@@ -1,0 +1,15 @@
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\OOPWithCSharp\RideMader\obj\Debug\net6.0\RideMader.csproj.AssemblyReference.cache
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\OOPWithCSharp\RideMader\obj\Debug\net6.0\RideMader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\OOPWithCSharp\RideMader\obj\Debug\net6.0\RideMader.AssemblyInfoInputs.cache
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\OOPWithCSharp\RideMader\obj\Debug\net6.0\RideMader.AssemblyInfo.cs
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\OOPWithCSharp\RideMader\obj\Debug\net6.0\RideMader.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\OOPWithCSharp\RideMader\bin\Debug\net6.0\RideMader.exe
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\OOPWithCSharp\RideMader\bin\Debug\net6.0\RideMader.deps.json
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\OOPWithCSharp\RideMader\bin\Debug\net6.0\RideMader.runtimeconfig.json
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\OOPWithCSharp\RideMader\bin\Debug\net6.0\RideMader.dll
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\OOPWithCSharp\RideMader\bin\Debug\net6.0\RideMader.pdb
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\OOPWithCSharp\RideMader\obj\Debug\net6.0\RideMader.dll
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\OOPWithCSharp\RideMader\obj\Debug\net6.0\refint\RideMader.dll
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\OOPWithCSharp\RideMader\obj\Debug\net6.0\RideMader.pdb
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\OOPWithCSharp\RideMader\obj\Debug\net6.0\RideMader.genruntimeconfig.cache
+C:\Users\antho\Desktop\CodingDojo\cSharp\languageFundamentals\OOPWithCSharp\RideMader\obj\Debug\net6.0\ref\RideMader.dll
