@@ -1,8 +1,17 @@
-﻿Enemy bowser = new Enemy("Bowser");
-Attack fireBreath = new Attack("Fire Breath", 10);
-Attack tailSwipe = new Attack("Tail Swipe", 5);
-Attack headSmash = new Attack("Head Smash", 20);
-bowser.addAttack(fireBreath);
-bowser.addAttack(tailSwipe);
-bowser.addAttack(headSmash);
-bowser.randomAttack();
+﻿MeleeFighter warrior = new MeleeFighter("Warrior");
+RangedFighter archer = new RangedFighter("Archer");
+MagicCaster mage = new MagicCaster("Mage");
+
+warrior.PerformAttack(archer, warrior.attackList[1]);
+warrior.rage(mage);
+archer.PerformAttack(warrior, archer.attackList[0]);
+archer.dash();
+archer.PerformAttack(warrior, archer.attackList[0]);
+mage.PerformAttack(warrior, mage.attackList[0]);
+mage.heal(archer);
+mage.heal(mage);
+archer.PerformAttack(warrior, archer.attackList[0]);
+archer.PerformAttack(warrior, archer.attackList[0]);
+archer.PerformAttack(warrior, archer.attackList[0]);
+archer.PerformAttack(warrior, archer.attackList[0]);
+archer.PerformAttack(warrior, archer.attackList[0]);
