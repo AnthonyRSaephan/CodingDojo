@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "my7nuaOriP1Hkv2TyZfGCj84FdwwmyyL2uey25OD140=",
+  "Source": "DojoSurvey",
+  "BasePath": "_content/DojoSurvey",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DojoSurvey\\wwwroot",
+      "Source": "DojoSurvey",
+      "ContentRoot": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurvey\\wwwroot\\",
+      "BasePath": "_content/DojoSurvey",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurvey\\wwwroot\\css\\style.css",
+      "SourceId": "DojoSurvey",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurvey\\wwwroot\\",
+      "BasePath": "_content/DojoSurvey",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}

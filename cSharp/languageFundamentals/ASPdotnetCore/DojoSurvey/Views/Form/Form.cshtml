@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+
+<body>
+    <form class="centerContent" method="post" action="/results">
+        <p>Your Name:</p>
+        <input type="text" class="centerInput" name="name">
+        <p>Dojo Location:</p>
+        <select name="location">
+            <option value="San Jose">San Jose</option>
+            <option value="Seattle">Seattle</option>
+            <option value="Ohio">Ohio</option>
+        </select>
+        <p>Favorite Language:</p>
+        <select name="favoriteLanguage">
+            <option value="C#">C#</option>
+            <option value="JavaScript">JavaScript</option>
+            <option value="Python">Python</option>
+        </select>
+        <p>Comment (optional):</p>
+        <textarea name="comment" cols="30" rows="10"></textarea>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+
+</html>
