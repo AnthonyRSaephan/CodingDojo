@@ -16,3 +16,6 @@ public class User
     [MinLength(21, ErrorMessage ="Comment must be more than 20 characters")]
     public string? Comment {get;set;}
 }
+
+
+

@@ -22,12 +22,11 @@ public class HomeController : Controller
     [HttpPost("/process")]
     public IActionResult Process(User user)
     {
-        System.Console.WriteLine(user);
         if(!ModelState.IsValid)
         {
             return View("Index");
         }
-
+        
         return RedirectToAction("Results", user);
     }
 
