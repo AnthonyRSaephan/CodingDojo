@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurvey\\obj\\Debug\\net6.0\\project.razor.json",
-  "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurvey\\DojoSurvey.csproj",
+  "SerializedFilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\DojoSurveyWithValidations.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -18371,16 +18371,46 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "DojoSurvey",
+  "RootNamespace": "DojoSurveyWithValidations",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurvey\\Views\\Form\\Form.cshtml",
-      "TargetPath": "Views\\Form\\Form.cshtml",
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurvey\\Views\\Form\\Display.cshtml",
-      "TargetPath": "Views\\Form\\Display.cshtml",
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Home\\Results.cshtml",
+      "TargetPath": "Views\\Home\\Results.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
