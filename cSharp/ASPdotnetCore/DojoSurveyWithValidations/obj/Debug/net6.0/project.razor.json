@@ -13,11 +13,7 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 685311976,
-=======
-        "HashCode": -1031071489,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 530510529,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -101,11 +97,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1370536650,
-=======
-        "HashCode": -255342301,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -119572631,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -190,11 +182,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -647553015,
-=======
-        "HashCode": 669207547,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1918649018,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -227,11 +215,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 510908046,
-=======
-        "HashCode": 958917983,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1797383611,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -265,11 +249,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -2033730432,
-=======
-        "HashCode": 229012132,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1655953172,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -290,11 +270,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -329465618,
-=======
-        "HashCode": -2024895408,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1299701767,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -316,11 +292,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1739343494,
-=======
-        "HashCode": -218232766,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 840922950,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -425,11 +397,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -317523977,
-=======
-        "HashCode": -903323811,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1709564018,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -535,11 +503,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1765145102,
-=======
-        "HashCode": -267365385,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1691995287,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -572,11 +536,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 2021258883,
-=======
-        "HashCode": 1001138669,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1431732711,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -610,11 +570,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1422937819,
-=======
-        "HashCode": -433474466,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 308046189,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -647,11 +603,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -394916753,
-=======
-        "HashCode": -1122800343,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1377311533,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -685,11 +637,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -275702562,
-=======
-        "HashCode": 1362789690,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1674959888,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -722,11 +670,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 833115336,
-=======
-        "HashCode": 664326493,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1265524482,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -760,11 +704,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -898363616,
-=======
-        "HashCode": -137018059,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1354428890,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -785,11 +725,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 2052341449,
-=======
-        "HashCode": 2106854789,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 509660683,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -811,11 +747,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1195844301,
-=======
-        "HashCode": 1324551014,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 336203774,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -846,11 +778,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -659455153,
-=======
-        "HashCode": 858956967,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -62438556,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -882,11 +810,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -895480712,
-=======
-        "HashCode": -1513806789,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1677310068,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -907,11 +831,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1923719061,
-=======
-        "HashCode": -2044432076,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 921296461,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -933,11 +853,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -976062064,
-=======
-        "HashCode": 559556285,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -93645215,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1012,11 +928,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1295911037,
-=======
-        "HashCode": -755376227,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1148200939,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1092,11 +1004,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 449324466,
-=======
-        "HashCode": -1070553394,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -352548310,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1117,11 +1025,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 116585567,
-=======
-        "HashCode": 1251885699,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1498683975,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1143,11 +1047,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1386524727,
-=======
-        "HashCode": 1540545819,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1057706767,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1189,11 +1089,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -418132243,
-=======
-        "HashCode": -85065967,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -535399403,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1236,11 +1132,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -488464990,
-=======
-        "HashCode": 1046725089,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -685198263,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1282,11 +1174,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -470684349,
-=======
-        "HashCode": -972432883,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -876685391,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1329,11 +1217,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1139746872,
-=======
-        "HashCode": 1998457772,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 140369936,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1354,11 +1238,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -153374138,
-=======
-        "HashCode": 580334583,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 775152180,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1380,11 +1260,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -2111133480,
-=======
-        "HashCode": -957601744,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -946265821,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1426,11 +1302,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1931764855,
-=======
-        "HashCode": 373986981,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -133290796,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1473,11 +1345,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -2055634275,
-=======
-        "HashCode": 864759559,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 990641357,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1585,11 +1453,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1020816230,
-=======
-        "HashCode": 311915125,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1673630041,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1698,11 +1562,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -910370191,
-=======
-        "HashCode": -1386658881,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 153620141,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1723,11 +1583,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -2033493910,
-=======
-        "HashCode": 950718073,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 556907800,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1749,11 +1605,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -431119893,
-=======
-        "HashCode": -2116076972,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1574515838,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1786,11 +1638,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 358653642,
-=======
-        "HashCode": -2019950483,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 952559867,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1824,11 +1672,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -569626447,
-=======
-        "HashCode": -220144198,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1144942918,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1849,11 +1693,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1145462206,
-=======
-        "HashCode": -1883301766,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -510098632,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1875,11 +1715,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 197918903,
-=======
-        "HashCode": -1545072326,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -838223032,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -1898,11 +1734,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 187731700,
-=======
-        "HashCode": -1662187548,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -845154900,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -1922,11 +1754,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -965529993,
-=======
-        "HashCode": -188765316,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 890050887,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2031,11 +1859,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -2065936497,
-=======
-        "HashCode": -764874496,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1090618647,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2141,11 +1965,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -682636160,
-=======
-        "HashCode": -142547284,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1847900581,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2178,11 +1998,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 19742784,
-=======
-        "HashCode": 1429283319,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -85177821,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2216,11 +2032,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 986988727,
-=======
-        "HashCode": 1537501176,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -232972658,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2292,11 +2104,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1808255966,
-=======
-        "HashCode": -64335395,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 505301364,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2369,11 +2177,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1726226137,
-=======
-        "HashCode": -1205142979,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -590440548,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2481,11 +2285,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1687034853,
-=======
-        "HashCode": 117339435,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -570309385,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2594,11 +2394,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -451284766,
-=======
-        "HashCode": -625859458,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1271798496,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2640,11 +2436,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -248785284,
-=======
-        "HashCode": -757676013,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -788919604,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2687,11 +2479,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1726396033,
-=======
-        "HashCode": 2068875400,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 2131252944,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2788,11 +2576,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1493007037,
-=======
-        "HashCode": -785351089,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -878984022,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2890,11 +2674,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 286757341,
-=======
-        "HashCode": 2036975491,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -2140216366,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2958,11 +2738,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1564579701,
-=======
-        "HashCode": -777192139,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1262611058,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3027,11 +2803,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1405750308,
-=======
-        "HashCode": -301870623,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -894890151,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3139,11 +2911,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 391334655,
-=======
-        "HashCode": 1801591938,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -711831809,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3252,11 +3020,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -962870894,
-=======
-        "HashCode": 1466397222,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 94776230,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3277,11 +3041,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1602149493,
-=======
-        "HashCode": 1637727804,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1223801607,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3303,11 +3063,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1472435433,
-=======
-        "HashCode": 1196514215,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 229667912,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3405,11 +3161,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1264523539,
-=======
-        "HashCode": 1660907037,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 2036470784,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3508,11 +3260,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1077927354,
-=======
-        "HashCode": -1258890317,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -691094191,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3533,11 +3281,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -439795980,
-=======
-        "HashCode": -1831260539,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1964849889,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3559,11 +3303,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1916452194,
-=======
-        "HashCode": 130218179,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -383247716,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3635,11 +3375,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -168278029,
-=======
-        "HashCode": -312789633,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1761631109,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3712,11 +3448,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -506364677,
-=======
-        "HashCode": -1036470554,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1059272277,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3788,11 +3520,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -663446407,
-=======
-        "HashCode": 1425355362,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1423434314,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3865,11 +3593,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 239009389,
-=======
-        "HashCode": -1167797660,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1803136544,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3923,11 +3647,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1178210463,
-=======
-        "HashCode": 218063770,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 829497792,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3982,11 +3702,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -357744314,
-=======
-        "HashCode": -598401826,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1609102924,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4027,11 +3743,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1386405862,
-=======
-        "HashCode": 1002980674,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1776180048,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4073,11 +3785,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1646034443,
-=======
-        "HashCode": 913546090,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 8284949,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4118,11 +3826,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 400847572,
-=======
-        "HashCode": 294063051,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 868799642,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4164,11 +3868,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1919040717,
-=======
-        "HashCode": -761385652,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1328554678,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4231,11 +3931,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 563626585,
-=======
-        "HashCode": -1939834933,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1205185492,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4299,11 +3995,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1943850853,
-=======
-        "HashCode": -1123182829,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -269412490,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4324,11 +4016,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1515932849,
-=======
-        "HashCode": -1351073611,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -480439638,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4350,11 +4038,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1293821632,
-=======
-        "HashCode": 158214283,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1551805135,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4386,11 +4070,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -216482463,
-=======
-        "HashCode": -636659570,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -38748936,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4423,11 +4103,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1809033459,
-=======
-        "HashCode": -1541648659,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1803853880,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4448,11 +4124,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1853706411,
-=======
-        "HashCode": -993109992,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 2049007750,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4474,11 +4146,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1764239591,
-=======
-        "HashCode": 1101999175,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1878867725,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4497,11 +4165,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -763749649,
-=======
-        "HashCode": 2012396170,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1518732277,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4521,11 +4185,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 35469759,
-=======
-        "HashCode": -111771684,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -179772440,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4557,11 +4217,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1619052259,
-=======
-        "HashCode": -2014920751,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 258656785,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4594,11 +4250,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1886792436,
-=======
-        "HashCode": -457318876,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 747724317,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4619,11 +4271,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1052483158,
-=======
-        "HashCode": 962724590,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -926496142,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4645,11 +4293,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1223790559,
-=======
-        "HashCode": 1724494662,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1946220358,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4712,11 +4356,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1307862739,
-=======
-        "HashCode": -883281003,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1664052585,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4780,11 +4420,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -346566000,
-=======
-        "HashCode": -1884173960,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -521403674,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4805,11 +4441,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -719920071,
-=======
-        "HashCode": -1737462647,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -640047536,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4831,11 +4463,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -2125150137,
-=======
-        "HashCode": -157746283,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 406974958,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4868,11 +4496,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 813003090,
-=======
-        "HashCode": 2068332393,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1086859450,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4906,11 +4530,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 797082178,
-=======
-        "HashCode": -188872162,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 272013239,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5032,11 +4652,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 56751060,
-=======
-        "HashCode": -711729809,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1754900835,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5159,11 +4775,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1702322303,
-=======
-        "HashCode": -892666925,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 776361140,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5196,11 +4808,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1105805982,
-=======
-        "HashCode": -1778890340,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1758881872,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5234,11 +4842,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1804010728,
-=======
-        "HashCode": -2083619104,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 959094119,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5271,11 +4875,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1106612626,
-=======
-        "HashCode": 699678726,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 827158234,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5309,11 +4909,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -423396215,
-=======
-        "HashCode": -1125710436,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -2094407925,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5346,11 +4942,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1944642072,
-=======
-        "HashCode": -2120448772,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 581096516,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5384,11 +4976,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 446550368,
-=======
-        "HashCode": 1123421840,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -741442128,
         "Kind": "Components.EventHandler",
         "Name": "onfocus",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5471,11 +5059,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -601150696,
-=======
-        "HashCode": -1734465831,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1002508329,
         "Kind": "Components.EventHandler",
         "Name": "onblur",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5558,11 +5142,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1308252531,
-=======
-        "HashCode": 903478692,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -136636729,
         "Kind": "Components.EventHandler",
         "Name": "onfocusin",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5645,11 +5225,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1433594668,
-=======
-        "HashCode": -1966802838,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -882446578,
         "Kind": "Components.EventHandler",
         "Name": "onfocusout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5732,11 +5308,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 364089655,
-=======
-        "HashCode": -1462890883,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1120530379,
         "Kind": "Components.EventHandler",
         "Name": "onmouseover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5819,11 +5391,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 478815267,
-=======
-        "HashCode": -1660524195,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1691762994,
         "Kind": "Components.EventHandler",
         "Name": "onmouseout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5906,11 +5474,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1166689691,
-=======
-        "HashCode": -1340312069,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -255707925,
         "Kind": "Components.EventHandler",
         "Name": "onmousemove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5993,11 +5557,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -861634631,
-=======
-        "HashCode": -1792057174,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1786141387,
         "Kind": "Components.EventHandler",
         "Name": "onmousedown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6080,11 +5640,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1512115877,
-=======
-        "HashCode": -447611551,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1527880236,
         "Kind": "Components.EventHandler",
         "Name": "onmouseup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6167,11 +5723,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -690039202,
-=======
-        "HashCode": -577553012,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1837103424,
         "Kind": "Components.EventHandler",
         "Name": "onclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6254,11 +5806,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -193299013,
-=======
-        "HashCode": -828702654,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1608484679,
         "Kind": "Components.EventHandler",
         "Name": "ondblclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6341,11 +5889,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -719307581,
-=======
-        "HashCode": -1155875577,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -2068859658,
         "Kind": "Components.EventHandler",
         "Name": "onwheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6428,11 +5972,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1574433012,
-=======
-        "HashCode": 1975327763,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -535237197,
         "Kind": "Components.EventHandler",
         "Name": "onmousewheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6515,11 +6055,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1597519952,
-=======
-        "HashCode": -1846490947,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 678958015,
         "Kind": "Components.EventHandler",
         "Name": "oncontextmenu",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6602,11 +6138,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1094233133,
-=======
-        "HashCode": -421302300,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1487274897,
         "Kind": "Components.EventHandler",
         "Name": "ondrag",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6689,11 +6221,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1178515776,
-=======
-        "HashCode": -887907856,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1568863333,
         "Kind": "Components.EventHandler",
         "Name": "ondragend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6776,11 +6304,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1917026700,
-=======
-        "HashCode": 816738796,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1651051595,
         "Kind": "Components.EventHandler",
         "Name": "ondragenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6863,11 +6387,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 235334433,
-=======
-        "HashCode": -1824868301,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1197358214,
         "Kind": "Components.EventHandler",
         "Name": "ondragleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6950,11 +6470,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -103674132,
-=======
-        "HashCode": -581889135,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -562022233,
         "Kind": "Components.EventHandler",
         "Name": "ondragover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7037,11 +6553,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -446657793,
-=======
-        "HashCode": -673669061,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 202492473,
         "Kind": "Components.EventHandler",
         "Name": "ondragstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7124,11 +6636,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 854762137,
-=======
-        "HashCode": -1207644293,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -2010643235,
         "Kind": "Components.EventHandler",
         "Name": "ondrop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7211,11 +6719,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1575259171,
-=======
-        "HashCode": 993951885,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 2041973733,
         "Kind": "Components.EventHandler",
         "Name": "onkeydown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7298,11 +6802,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1149396185,
-=======
-        "HashCode": -216711498,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 556112453,
         "Kind": "Components.EventHandler",
         "Name": "onkeyup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7385,11 +6885,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -504529419,
-=======
-        "HashCode": 1064952596,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1372643353,
         "Kind": "Components.EventHandler",
         "Name": "onkeypress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7472,11 +6968,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 2044566852,
-=======
-        "HashCode": -295172731,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1725797490,
         "Kind": "Components.EventHandler",
         "Name": "onchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7559,11 +7051,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 595288544,
-=======
-        "HashCode": 688227129,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -365972300,
         "Kind": "Components.EventHandler",
         "Name": "oninput",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7646,11 +7134,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -979555053,
-=======
-        "HashCode": 1925433464,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1135925577,
         "Kind": "Components.EventHandler",
         "Name": "oninvalid",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7733,11 +7217,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -194755362,
-=======
-        "HashCode": -1412578584,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 554715026,
         "Kind": "Components.EventHandler",
         "Name": "onreset",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7820,11 +7300,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1766108631,
-=======
-        "HashCode": 1803385962,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -645039740,
         "Kind": "Components.EventHandler",
         "Name": "onselect",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7907,11 +7383,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1180489965,
-=======
-        "HashCode": -298956905,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1724804389,
         "Kind": "Components.EventHandler",
         "Name": "onselectstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7994,11 +7466,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -173030752,
-=======
-        "HashCode": 449292850,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1096138247,
         "Kind": "Components.EventHandler",
         "Name": "onselectionchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8081,11 +7549,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 687377395,
-=======
-        "HashCode": 786104503,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 615323956,
         "Kind": "Components.EventHandler",
         "Name": "onsubmit",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8168,11 +7632,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1625886776,
-=======
-        "HashCode": 1571185196,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 4285472,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8255,11 +7715,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1513209243,
-=======
-        "HashCode": -1608886575,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 191939042,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8342,11 +7798,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1580319501,
-=======
-        "HashCode": -1909475235,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1788746783,
         "Kind": "Components.EventHandler",
         "Name": "onbeforepaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8429,11 +7881,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 925711682,
-=======
-        "HashCode": -1592585913,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1242518013,
         "Kind": "Components.EventHandler",
         "Name": "oncopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8516,11 +7964,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 689003555,
-=======
-        "HashCode": 1777298308,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -430622047,
         "Kind": "Components.EventHandler",
         "Name": "oncut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8603,11 +8047,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1839203289,
-=======
-        "HashCode": -827530057,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1128785118,
         "Kind": "Components.EventHandler",
         "Name": "onpaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8690,11 +8130,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 521974619,
-=======
-        "HashCode": -1474975097,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -11066876,
         "Kind": "Components.EventHandler",
         "Name": "ontouchcancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8777,11 +8213,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1374289450,
-=======
-        "HashCode": 1477228124,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1931849565,
         "Kind": "Components.EventHandler",
         "Name": "ontouchend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8864,11 +8296,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1343886637,
-=======
-        "HashCode": 2128521816,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1537457688,
         "Kind": "Components.EventHandler",
         "Name": "ontouchmove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8951,11 +8379,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -562852724,
-=======
-        "HashCode": -1538113530,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 810017036,
         "Kind": "Components.EventHandler",
         "Name": "ontouchstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9038,11 +8462,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 952205099,
-=======
-        "HashCode": -1751111076,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 505992548,
         "Kind": "Components.EventHandler",
         "Name": "ontouchenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9125,11 +8545,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1454382292,
-=======
-        "HashCode": 259251313,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 592290921,
         "Kind": "Components.EventHandler",
         "Name": "ontouchleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9212,11 +8628,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 207581755,
-=======
-        "HashCode": 1600854200,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1586366063,
         "Kind": "Components.EventHandler",
         "Name": "ongotpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9299,11 +8711,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 2090846464,
-=======
-        "HashCode": -37332744,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 180831408,
         "Kind": "Components.EventHandler",
         "Name": "onlostpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9386,11 +8794,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -544597729,
-=======
-        "HashCode": 1652597571,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 2022517874,
         "Kind": "Components.EventHandler",
         "Name": "onpointercancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9473,11 +8877,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1495817577,
-=======
-        "HashCode": 602302671,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -394043284,
         "Kind": "Components.EventHandler",
         "Name": "onpointerdown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9560,11 +8960,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1212987483,
-=======
-        "HashCode": -1345916923,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 24393818,
         "Kind": "Components.EventHandler",
         "Name": "onpointerenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9647,11 +9043,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1641614097,
-=======
-        "HashCode": -1524375491,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -513337405,
         "Kind": "Components.EventHandler",
         "Name": "onpointerleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9734,11 +9126,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -447663498,
-=======
-        "HashCode": 832437618,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -704470545,
         "Kind": "Components.EventHandler",
         "Name": "onpointermove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9821,11 +9209,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 2084098908,
-=======
-        "HashCode": 650149115,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1253782226,
         "Kind": "Components.EventHandler",
         "Name": "onpointerout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9908,11 +9292,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -361569851,
-=======
-        "HashCode": -1034684513,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -864296520,
         "Kind": "Components.EventHandler",
         "Name": "onpointerover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9995,11 +9375,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1277202836,
-=======
-        "HashCode": 925691804,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -456954576,
         "Kind": "Components.EventHandler",
         "Name": "onpointerup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10082,11 +9458,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -46164981,
-=======
-        "HashCode": -823529488,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -198821283,
         "Kind": "Components.EventHandler",
         "Name": "oncanplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10169,11 +9541,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1211619425,
-=======
-        "HashCode": -1500585549,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1934434253,
         "Kind": "Components.EventHandler",
         "Name": "oncanplaythrough",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10256,11 +9624,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 280820519,
-=======
-        "HashCode": -2000365554,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 2065290168,
         "Kind": "Components.EventHandler",
         "Name": "oncuechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10343,11 +9707,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1099444901,
-=======
-        "HashCode": -520861390,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 264150773,
         "Kind": "Components.EventHandler",
         "Name": "ondurationchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10430,11 +9790,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1991525094,
-=======
-        "HashCode": -1520798696,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 2122179654,
         "Kind": "Components.EventHandler",
         "Name": "onemptied",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10517,11 +9873,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1968251233,
-=======
-        "HashCode": 1535262273,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -246480728,
         "Kind": "Components.EventHandler",
         "Name": "onpause",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10604,11 +9956,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 129566630,
-=======
-        "HashCode": -38343197,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 567730475,
         "Kind": "Components.EventHandler",
         "Name": "onplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10691,11 +10039,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -962173324,
-=======
-        "HashCode": 1475403977,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1785649223,
         "Kind": "Components.EventHandler",
         "Name": "onplaying",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10778,11 +10122,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -666821675,
-=======
-        "HashCode": -826259269,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 771225514,
         "Kind": "Components.EventHandler",
         "Name": "onratechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10865,11 +10205,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1467886825,
-=======
-        "HashCode": 343804399,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1426729781,
         "Kind": "Components.EventHandler",
         "Name": "onseeked",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10952,11 +10288,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -2657050,
-=======
-        "HashCode": -1927149468,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1146621325,
         "Kind": "Components.EventHandler",
         "Name": "onseeking",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11039,11 +10371,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1871646672,
-=======
-        "HashCode": -1945440737,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -844441301,
         "Kind": "Components.EventHandler",
         "Name": "onstalled",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11126,11 +10454,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 647556453,
-=======
-        "HashCode": 281704754,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1153625680,
         "Kind": "Components.EventHandler",
         "Name": "onstop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11213,11 +10537,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1476398980,
-=======
-        "HashCode": 2083684471,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 14288086,
         "Kind": "Components.EventHandler",
         "Name": "onsuspend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11300,11 +10620,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -692475260,
-=======
-        "HashCode": 2081041490,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -367042070,
         "Kind": "Components.EventHandler",
         "Name": "ontimeupdate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11387,11 +10703,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -156966545,
-=======
-        "HashCode": 2132776937,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1407681314,
         "Kind": "Components.EventHandler",
         "Name": "onvolumechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11474,11 +10786,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -391625240,
-=======
-        "HashCode": -1653293238,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 229911134,
         "Kind": "Components.EventHandler",
         "Name": "onwaiting",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11561,11 +10869,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -919429000,
-=======
-        "HashCode": 1344206602,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1004090379,
         "Kind": "Components.EventHandler",
         "Name": "onloadstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11648,11 +10952,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -267228439,
-=======
-        "HashCode": 264434031,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 50073752,
         "Kind": "Components.EventHandler",
         "Name": "ontimeout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11735,11 +11035,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1268515432,
-=======
-        "HashCode": 352518608,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1806490053,
         "Kind": "Components.EventHandler",
         "Name": "onabort",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11822,11 +11118,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 184240995,
-=======
-        "HashCode": -902749231,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -724170991,
         "Kind": "Components.EventHandler",
         "Name": "onload",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11909,11 +11201,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -439594492,
-=======
-        "HashCode": -738748972,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -753454460,
         "Kind": "Components.EventHandler",
         "Name": "onloadend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11996,11 +11284,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 709316630,
-=======
-        "HashCode": -1441091706,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1937698320,
         "Kind": "Components.EventHandler",
         "Name": "onprogress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12083,11 +11367,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -771553644,
-=======
-        "HashCode": -1753559506,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -2063446968,
         "Kind": "Components.EventHandler",
         "Name": "onerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12170,11 +11450,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1763217260,
-=======
-        "HashCode": 1009673669,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 212769689,
         "Kind": "Components.EventHandler",
         "Name": "onactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12257,11 +11533,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1978195495,
-=======
-        "HashCode": 386254296,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 912460196,
         "Kind": "Components.EventHandler",
         "Name": "onbeforeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12344,11 +11616,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 2020701145,
-=======
-        "HashCode": 731631874,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 920655929,
         "Kind": "Components.EventHandler",
         "Name": "onbeforedeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12431,11 +11699,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -278937290,
-=======
-        "HashCode": 989202595,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 238828513,
         "Kind": "Components.EventHandler",
         "Name": "ondeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12518,11 +11782,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1058504670,
-=======
-        "HashCode": 2136393328,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1727640589,
         "Kind": "Components.EventHandler",
         "Name": "onended",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12605,11 +11865,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -990167036,
-=======
-        "HashCode": 733856085,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 411493590,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12692,11 +11948,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 2059577628,
-=======
-        "HashCode": -705146743,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -539426619,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12779,11 +12031,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1985062138,
-=======
-        "HashCode": -909069823,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -187955409,
         "Kind": "Components.EventHandler",
         "Name": "onloadeddata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12866,11 +12114,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 380301676,
-=======
-        "HashCode": -632386108,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 37382810,
         "Kind": "Components.EventHandler",
         "Name": "onloadedmetadata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12953,11 +12197,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1816298723,
-=======
-        "HashCode": -927560804,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 589351421,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13040,11 +12280,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1216913979,
-=======
-        "HashCode": -1081490424,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 2067969281,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13127,11 +12363,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1331559661,
-=======
-        "HashCode": -2036745642,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -620835697,
         "Kind": "Components.EventHandler",
         "Name": "onreadystatechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13214,11 +12446,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1176697718,
-=======
-        "HashCode": 1197573846,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1031364278,
         "Kind": "Components.EventHandler",
         "Name": "onscroll",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13301,11 +12529,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1594061767,
-=======
-        "HashCode": 1262072858,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -953503020,
         "Kind": "Components.EventHandler",
         "Name": "ontoggle",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13388,11 +12612,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 2074454491,
-=======
-        "HashCode": -608436980,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1932080094,
         "Kind": "Components.Splat",
         "Name": "Attributes",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13431,11 +12651,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -430967594,
-=======
-        "HashCode": 1812355434,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -351983393,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.Razor",
@@ -13752,11 +12968,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -860902016,
-=======
-        "HashCode": 1638963905,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -553694097,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13955,11 +13167,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1261506718,
-=======
-        "HashCode": -1472955410,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1960400784,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.CacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14088,11 +13296,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1350845358,
-=======
-        "HashCode": -1036191914,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 537812571,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ComponentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14149,11 +13353,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1624564091,
-=======
-        "HashCode": -1342858208,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1504790619,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.DistributedCacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14287,11 +13487,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -2118026240,
-=======
-        "HashCode": -1128502805,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 167030379,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14339,11 +13535,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 557084584,
-=======
-        "HashCode": 324659601,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1826682517,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormActionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14762,11 +13954,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1182465614,
-=======
-        "HashCode": -1179673872,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1082746032,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14870,11 +14058,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -853999401,
-=======
-        "HashCode": 1499289173,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 777885138,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ImageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14922,11 +14106,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1831396097,
-=======
-        "HashCode": 1333989745,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1519884414,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14998,11 +14178,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1109719564,
-=======
-        "HashCode": -750410651,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1992793782,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15037,11 +14213,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1130566938,
-=======
-        "HashCode": -474648696,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1291885599,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15239,11 +14411,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -960098501,
-=======
-        "HashCode": -259943634,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1595562916,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.OptionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15273,11 +14441,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1532991874,
-=======
-        "HashCode": 1629809785,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1763112870,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15360,11 +14524,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 708208115,
-=======
-        "HashCode": -693066218,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1230177959,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PersistComponentStateTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15395,11 +14555,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -2104881066,
-=======
-        "HashCode": 845476979,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 954555738,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ScriptTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15554,11 +14710,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 890302804,
-=======
-        "HashCode": 1884345644,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -152711695,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15619,11 +14771,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1898089327,
-=======
-        "HashCode": 11829529,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -645134161,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.TextAreaTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15667,11 +14815,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1731293839,
-=======
-        "HashCode": 878328564,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 411500147,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15706,11 +14850,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1345059437,
-=======
-        "HashCode": 403406001,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -95876032,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15746,11 +14886,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -227518534,
-=======
-        "HashCode": 147635807,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1062384052,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15846,11 +14982,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1192005905,
-=======
-        "HashCode": 949562645,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1696712805,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15972,11 +15104,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1729996891,
-=======
-        "HashCode": 1448216629,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 874036305,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16098,11 +15226,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -634685208,
-=======
-        "HashCode": -1127037729,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1947313025,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16235,11 +15359,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 780652164,
-=======
-        "HashCode": -869970245,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 393505729,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16372,11 +15492,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 613854350,
-=======
-        "HashCode": 1682024470,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1360531905,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16509,11 +15625,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 796740319,
-=======
-        "HashCode": -136620519,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1635838537,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16646,11 +15758,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 325687529,
-=======
-        "HashCode": 106240615,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -387127823,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16783,11 +15891,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -869533845,
-=======
-        "HashCode": 416263145,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1097262208,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16920,11 +16024,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1080620782,
-=======
-        "HashCode": 92034620,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1171064808,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17057,11 +16157,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1981187313,
-=======
-        "HashCode": 40411143,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1363844653,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17194,11 +16290,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -554416242,
-=======
-        "HashCode": -292017067,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1956127701,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17331,11 +16423,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -2104301894,
-=======
-        "HashCode": 472256631,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 472600238,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17468,11 +16556,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -253086151,
-=======
-        "HashCode": -352946908,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1113510981,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17605,11 +16689,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -2065397636,
-=======
-        "HashCode": -2081092971,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1862186209,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17742,11 +16822,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 536530761,
-=======
-        "HashCode": 414973859,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 364347471,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17868,11 +16944,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1791328193,
-=======
-        "HashCode": 822209670,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1854673345,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17994,11 +17066,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1031286724,
-=======
-        "HashCode": 221053417,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1424816530,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18085,11 +17153,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -810893210,
-=======
-        "HashCode": -746138780,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -742259027,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18177,11 +17241,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -687689703,
-=======
-        "HashCode": 22833038,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 267571598,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18268,11 +17328,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1037256204,
-=======
-        "HashCode": -1956927192,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -585582143,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18360,11 +17416,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -76243019,
-=======
-        "HashCode": 1781257149,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1832719962,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18451,11 +17503,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 2094759174,
-=======
-        "HashCode": -424072878,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 1663170249,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18543,11 +17591,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 2104765593,
-=======
-        "HashCode": 1212670356,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -2050100116,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18634,11 +17678,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1052106219,
-=======
-        "HashCode": 1436526264,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1477189416,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18726,11 +17766,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1148214258,
-=======
-        "HashCode": 1427537984,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 287596494,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18817,11 +17853,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1264140619,
-=======
-        "HashCode": -80472518,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1860693374,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18909,11 +17941,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -391106366,
-=======
-        "HashCode": -197940442,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -1460217534,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19000,11 +18028,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 114554121,
-=======
-        "HashCode": 1844986732,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 597154080,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19092,11 +18116,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 2131434019,
-=======
-        "HashCode": 1190883138,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 2028679022,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19183,11 +18203,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -1017328882,
-=======
-        "HashCode": 2125863737,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": -370019739,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19275,11 +18291,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": -465705594,
-=======
-        "HashCode": 1115089887,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 2033445901,
         "Kind": "Components.Ref",
         "Name": "Ref",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19318,11 +18330,7 @@
         }
       },
       {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-        "HashCode": 1989894654,
-=======
-        "HashCode": -1332510834,
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+        "HashCode": 409252864,
         "Kind": "Components.Key",
         "Name": "Key",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19366,56 +18374,8 @@
   "RootNamespace": "DojoSurveyWithValidations",
   "Documents": [
     {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Shared\\_Layout.cshtml",
-=======
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Shared\\_Layout.cshtml",
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-<<<<<<< HEAD:cSharp/languageFundamentals/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Home\\Results.cshtml",
-      "TargetPath": "Views\\Home\\Results.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\languageFundamentals\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
-=======
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19429,19 +18389,28 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
->>>>>>> 269d9e8dd3e1f4336748e3aa265106efd4b64e4f:cSharp/ASPdotnetCore/DojoSurveyWithValidations/obj/Debug/net6.0/project.razor.json
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\DojoSurveyWithValidations\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     }
   ],
