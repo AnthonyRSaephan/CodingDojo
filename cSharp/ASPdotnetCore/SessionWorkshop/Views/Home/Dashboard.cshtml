@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+
+<div class="d-flex justify-content-around">
+    <h1>Welcome @Context.Session.GetString("Name")!</h1>
+    <form asp-action="Logout" asp-controller="Home">
+        <button class="btn btn-danger">Log out</button>
+    </form>
+</div>
+<hr>
+
+<div class="d-flex justify-content-center">
+    <h2>@Context.Session.GetInt32("Number")</h2>
+</div>
+<div class="d-flex justify-content-evenly">
+    <form action="/operation/add/1" method="post">
+        <button class="btn btn-primary">+1</button>
+    </form>
+    <form action="/operation/add/-1" method="post">
+        <button class="btn btn-secondary">-1</button>
+    </form>
+</div>
+<div class="d-flex justify-content-evenly">
+    <form action="/operation/multiply/2" method="post">
+        <button class="btn btn-success">x2</button>
+    </form>
+    <form action="/random" method="post">
+        <button class="btn btn-danger">Random</button>
+    </form>
+</div>
