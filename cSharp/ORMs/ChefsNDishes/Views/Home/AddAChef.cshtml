@@ -1,0 +1,37 @@
+@{
+    ViewData["Title"] = "Add a Chef";
+}
+@model Chef
+
+<div class="text-center">
+    <a asp-action="Chefs" asp-controller="Home">Chefs</a> |
+    <a asp-action="Dishes" asp-controller="Home">Dishes</a> |
+    Add a Chef |
+    <a asp-action="AddADish" asp-controller="Home">Add a Dish</a>
+</div>
+
+<div class="text-center">
+    <h1>Add a chef</h1>
+</div>
+
+<hr>
+
+<form asp-action="CreateAChef" asp-controller="Home">
+    <div class="mb-3">
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName">
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName">
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="DateOfBirth"></label>
+        <input asp-for="DateOfBirth">
+        <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+    </div>
+
+    <button class="btn btn-success">Add Chef</button>
+</form>

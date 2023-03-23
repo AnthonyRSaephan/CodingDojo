@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\obj\\Debug\\net6.0\\project.razor.json",
-  "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\CRUDelicious.csproj",
+  "SerializedFilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ChefsNDishes\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ChefsNDishes\\ChefsNDishes.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -18371,56 +18371,56 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "CRUDelicious",
+  "RootNamespace": "ChefsNDishes",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ChefsNDishes\\Views\\Home\\AddAChef.cshtml",
+      "TargetPath": "Views\\Home\\AddAChef.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ChefsNDishes\\Views\\Home\\Chefs.cshtml",
+      "TargetPath": "Views\\Home\\Chefs.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ChefsNDishes\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Home\\Dishes.cshtml",
-      "TargetPath": "Views\\Home\\Dishes.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ChefsNDishes\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Home\\ShowADish.cshtml",
-      "TargetPath": "Views\\Home\\ShowADish.cshtml",
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ChefsNDishes\\Views\\Home\\Dishes.cshtml",
+      "TargetPath": "Views\\Home\\Dishes.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ChefsNDishes\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ChefsNDishes\\Views\\Home\\AddADish.cshtml",
+      "TargetPath": "Views\\Home\\AddADish.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Home\\CreateANewDish.cshtml",
-      "TargetPath": "Views\\Home\\CreateANewDish.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ChefsNDishes\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Home\\EditADish.cshtml",
-      "TargetPath": "Views\\Home\\EditADish.cshtml",
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ChefsNDishes\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ChefsNDishes\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }
   ],
