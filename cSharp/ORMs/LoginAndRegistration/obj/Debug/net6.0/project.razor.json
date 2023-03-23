@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\obj\\Debug\\net6.0\\project.razor.json",
-  "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\CRUDelicious.csproj",
+  "SerializedFilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\LoginAndRegistration\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\LoginAndRegistration\\LoginAndRegistration.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -13,11 +13,11 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1585824243,
 =======
         "HashCode": 491031195,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -101,11 +101,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 2130046682,
 =======
         "HashCode": 997725089,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -190,11 +190,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1659021632,
 =======
         "HashCode": 678967252,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -227,11 +227,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -168137554,
 =======
         "HashCode": 944050504,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -265,11 +265,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1195752939,
 =======
         "HashCode": -324053514,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -290,11 +290,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -698383309,
 =======
         "HashCode": -272256652,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -316,11 +316,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1365031104,
 =======
         "HashCode": -1590936454,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -425,11 +425,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -497022622,
 =======
         "HashCode": -30945820,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -535,11 +535,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1528764054,
 =======
         "HashCode": -1659075756,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -572,11 +572,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 2018558432,
 =======
         "HashCode": 591173489,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -610,11 +610,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 481959976,
 =======
         "HashCode": -1238377008,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -647,11 +647,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -2139275154,
 =======
         "HashCode": 1928493181,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -685,11 +685,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1358389002,
 =======
         "HashCode": 598176570,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -722,11 +722,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -839826947,
 =======
         "HashCode": 369046280,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -760,11 +760,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 930286060,
 =======
         "HashCode": -2082341859,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -785,11 +785,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1267473008,
 =======
         "HashCode": 1497040390,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -811,11 +811,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 625905660,
 =======
         "HashCode": 905893873,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -846,11 +846,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 713100338,
 =======
         "HashCode": -393578272,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -882,11 +882,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 2067597967,
 =======
         "HashCode": 715724883,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -907,11 +907,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1780865350,
 =======
         "HashCode": -279372873,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -933,11 +933,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -69370845,
 =======
         "HashCode": 600960159,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1012,11 +1012,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 332864280,
 =======
         "HashCode": -592857520,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1092,11 +1092,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 17991424,
 =======
         "HashCode": 309643286,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1117,11 +1117,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 459719821,
 =======
         "HashCode": 1297075701,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1143,11 +1143,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1151494898,
 =======
         "HashCode": 1552162197,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1189,11 +1189,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 465605557,
 =======
         "HashCode": -614599005,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1236,11 +1236,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1676437749,
 =======
         "HashCode": 1595182772,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1282,11 +1282,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -176061297,
 =======
         "HashCode": 730685664,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1329,11 +1329,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -2055357306,
 =======
         "HashCode": -665320008,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1354,11 +1354,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1116154209,
 =======
         "HashCode": 403933668,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1380,11 +1380,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 828354687,
 =======
         "HashCode": 147673531,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1426,11 +1426,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1593830012,
 =======
         "HashCode": 594823261,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1473,11 +1473,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 588720871,
 =======
         "HashCode": 2082140061,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1585,11 +1585,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1410032463,
 =======
         "HashCode": 1861544511,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1698,11 +1698,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -731716038,
 =======
         "HashCode": 2050764647,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1723,11 +1723,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 419377928,
 =======
         "HashCode": 1756989079,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1749,11 +1749,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -254175518,
 =======
         "HashCode": -433311056,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1786,11 +1786,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1197092819,
 =======
         "HashCode": -846209405,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1824,11 +1824,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1328558268,
 =======
         "HashCode": -927660452,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1849,11 +1849,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1162306622,
 =======
         "HashCode": 167068393,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1875,11 +1875,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 198896500,
 =======
         "HashCode": 1182280091,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -1898,11 +1898,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 594102102,
 =======
         "HashCode": 1650569221,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -1922,11 +1922,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1492252343,
 =======
         "HashCode": 1233764534,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2031,11 +2031,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -2028544153,
 =======
         "HashCode": 927019512,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2141,11 +2141,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 812144618,
 =======
         "HashCode": -2123265569,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2178,11 +2178,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -356022117,
 =======
         "HashCode": 1067684116,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2216,11 +2216,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -64039077,
 =======
         "HashCode": -1750244705,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2292,11 +2292,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1935372168,
 =======
         "HashCode": 318384186,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2369,11 +2369,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1624932897,
 =======
         "HashCode": 1297885782,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2481,11 +2481,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1718756561,
 =======
         "HashCode": -1989049406,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2594,11 +2594,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 2016847770,
 =======
         "HashCode": 474012171,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2640,11 +2640,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -992244689,
 =======
         "HashCode": 441884816,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2687,11 +2687,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -863055662,
 =======
         "HashCode": 1349340408,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2788,11 +2788,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1710808786,
 =======
         "HashCode": -1047687414,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2890,11 +2890,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -120144153,
 =======
         "HashCode": -504794681,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2958,11 +2958,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 2027995418,
 =======
         "HashCode": 730178881,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3027,11 +3027,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -436427262,
 =======
         "HashCode": 2026562072,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3139,11 +3139,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 361324943,
 =======
         "HashCode": 1302886836,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3252,11 +3252,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -92262205,
 =======
         "HashCode": -625285346,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3277,11 +3277,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 864076295,
 =======
         "HashCode": 1805433640,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3303,11 +3303,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1397624211,
 =======
         "HashCode": 460368351,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3405,11 +3405,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1257194186,
 =======
         "HashCode": -861024939,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3508,11 +3508,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 922883182,
 =======
         "HashCode": -2004894766,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3533,11 +3533,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -101677047,
 =======
         "HashCode": -1742611324,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3559,11 +3559,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -726675029,
 =======
         "HashCode": -1401537959,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3635,11 +3635,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1780171718,
 =======
         "HashCode": -256477746,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3712,11 +3712,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1261857057,
 =======
         "HashCode": -1822960096,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3788,11 +3788,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -513484151,
 =======
         "HashCode": 2131027122,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3865,11 +3865,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1073208556,
 =======
         "HashCode": 656556651,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3923,11 +3923,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -565627280,
 =======
         "HashCode": 333179876,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3982,11 +3982,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1795724359,
 =======
         "HashCode": 1526701679,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4027,11 +4027,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1686390175,
 =======
         "HashCode": -2030865150,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4073,11 +4073,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1335877428,
 =======
         "HashCode": -873186210,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4118,11 +4118,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1914860427,
 =======
         "HashCode": 743404571,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4164,11 +4164,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1827994776,
 =======
         "HashCode": -1234003679,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4231,11 +4231,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1636155720,
 =======
         "HashCode": 602617231,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4299,11 +4299,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1750247598,
 =======
         "HashCode": 1458693405,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4324,11 +4324,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1791005337,
 =======
         "HashCode": 745866391,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4350,11 +4350,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 39351382,
 =======
         "HashCode": -1715741105,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4386,11 +4386,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 41468132,
 =======
         "HashCode": 14009935,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4423,11 +4423,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 395240288,
 =======
         "HashCode": 882852192,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4448,11 +4448,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 385660860,
 =======
         "HashCode": 1120470929,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4474,11 +4474,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1702780026,
 =======
         "HashCode": -998842534,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4497,11 +4497,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1025226747,
 =======
         "HashCode": -1358694658,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4521,11 +4521,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1745758244,
 =======
         "HashCode": -1883562706,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4557,11 +4557,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 190626766,
 =======
         "HashCode": -889964333,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4594,11 +4594,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -988188766,
 =======
         "HashCode": 93261457,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4619,11 +4619,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -282479802,
 =======
         "HashCode": -1806372184,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4645,11 +4645,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1067040818,
 =======
         "HashCode": -2090022908,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4712,11 +4712,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -178298249,
 =======
         "HashCode": -1509308047,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4780,11 +4780,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1282040244,
 =======
         "HashCode": -178198949,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4805,11 +4805,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1646692999,
 =======
         "HashCode": 1531913317,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4831,11 +4831,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 665752829,
 =======
         "HashCode": -200816152,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4868,11 +4868,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -865960247,
 =======
         "HashCode": -1230891077,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4906,11 +4906,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1222615523,
 =======
         "HashCode": -1033235249,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5032,11 +5032,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -155028132,
 =======
         "HashCode": -1646160109,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5159,11 +5159,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1049953842,
 =======
         "HashCode": -969162846,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5196,11 +5196,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 2063023153,
 =======
         "HashCode": 34945719,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5234,11 +5234,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1552166807,
 =======
         "HashCode": 1450076890,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5271,11 +5271,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1944532039,
 =======
         "HashCode": 453759285,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5309,11 +5309,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1655807579,
 =======
         "HashCode": -431680076,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5346,11 +5346,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 730469853,
 =======
         "HashCode": -748555845,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5384,11 +5384,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 514103202,
 =======
         "HashCode": -18046162,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onfocus",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5471,11 +5471,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 2065499031,
 =======
         "HashCode": -2126400970,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onblur",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5558,11 +5558,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -956852390,
 =======
         "HashCode": 2112541727,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onfocusin",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5645,11 +5645,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1440754413,
 =======
         "HashCode": 209875859,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onfocusout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5732,11 +5732,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 851036776,
 =======
         "HashCode": -162526685,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onmouseover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5819,11 +5819,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 403130232,
 =======
         "HashCode": 469631251,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onmouseout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5906,11 +5906,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1156374983,
 =======
         "HashCode": 1177481591,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onmousemove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5993,11 +5993,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -688249230,
 =======
         "HashCode": -1470076643,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onmousedown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6080,11 +6080,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 360158895,
 =======
         "HashCode": 849019294,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onmouseup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6167,11 +6167,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1134012767,
 =======
         "HashCode": 1466112015,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6254,11 +6254,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1684436788,
 =======
         "HashCode": 692667442,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ondblclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6341,11 +6341,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 84416103,
 =======
         "HashCode": 784129185,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onwheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6428,11 +6428,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1849998823,
 =======
         "HashCode": 1482786989,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onmousewheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6515,11 +6515,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1422550249,
 =======
         "HashCode": -81450652,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "oncontextmenu",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6602,11 +6602,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1375327780,
 =======
         "HashCode": -1262767115,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ondrag",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6689,11 +6689,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -475969381,
 =======
         "HashCode": 1799432235,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ondragend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6776,11 +6776,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 2082517412,
 =======
         "HashCode": 1994874972,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ondragenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6863,11 +6863,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1946724125,
 =======
         "HashCode": 2043277392,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ondragleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6950,11 +6950,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -829197258,
 =======
         "HashCode": -908306039,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ondragover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7037,11 +7037,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 167920624,
 =======
         "HashCode": -811296460,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ondragstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7124,11 +7124,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1883532336,
 =======
         "HashCode": -615128891,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ondrop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7211,11 +7211,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1965786644,
 =======
         "HashCode": -1866670938,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onkeydown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7298,11 +7298,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 718709452,
 =======
         "HashCode": -1176093422,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onkeyup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7385,11 +7385,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -2089164254,
 =======
         "HashCode": 662415022,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onkeypress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7472,11 +7472,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1986859504,
 =======
         "HashCode": 1477543281,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7559,11 +7559,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1019182803,
 =======
         "HashCode": -404492092,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "oninput",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7646,11 +7646,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -6081258,
 =======
         "HashCode": -862781488,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "oninvalid",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7733,11 +7733,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1557034532,
 =======
         "HashCode": 505410135,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onreset",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7820,11 +7820,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -639782609,
 =======
         "HashCode": 1019056619,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onselect",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7907,11 +7907,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1062440613,
 =======
         "HashCode": 1172639295,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onselectstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7994,11 +7994,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1130781038,
 =======
         "HashCode": -901756850,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onselectionchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8081,11 +8081,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1455045794,
 =======
         "HashCode": -219978403,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onsubmit",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8168,11 +8168,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -2053204039,
 =======
         "HashCode": -663395553,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onbeforecopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8255,11 +8255,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 904514051,
 =======
         "HashCode": -1407026913,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onbeforecut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8342,11 +8342,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 114108277,
 =======
         "HashCode": -22775215,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onbeforepaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8429,11 +8429,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1061924909,
 =======
         "HashCode": -1580281640,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "oncopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8516,11 +8516,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 533121135,
 =======
         "HashCode": -351978557,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "oncut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8603,11 +8603,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -697405430,
 =======
         "HashCode": 884632303,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onpaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8690,11 +8690,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1655698797,
 =======
         "HashCode": -906741110,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ontouchcancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8777,11 +8777,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1248215907,
 =======
         "HashCode": 2018953852,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ontouchend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8864,11 +8864,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -282488413,
 =======
         "HashCode": -2015530890,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ontouchmove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8951,11 +8951,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1125391624,
 =======
         "HashCode": -1754613302,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ontouchstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9038,11 +9038,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -943292388,
 =======
         "HashCode": -1863831618,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ontouchenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9125,11 +9125,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 885131653,
 =======
         "HashCode": 2110761205,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ontouchleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9212,11 +9212,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 2059795294,
 =======
         "HashCode": 855134267,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ongotpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9299,11 +9299,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -955938283,
 =======
         "HashCode": 1553404075,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onlostpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9386,11 +9386,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 247707414,
 =======
         "HashCode": 609960791,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onpointercancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9473,11 +9473,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -2100345062,
 =======
         "HashCode": -1836905442,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onpointerdown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9560,11 +9560,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 845716368,
 =======
         "HashCode": -941583151,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onpointerenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9647,11 +9647,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1131493274,
 =======
         "HashCode": 1494958466,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onpointerleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9734,11 +9734,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1716961711,
 =======
         "HashCode": 843233228,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onpointermove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9821,11 +9821,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -957582309,
 =======
         "HashCode": -539305017,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onpointerout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9908,11 +9908,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -977837364,
 =======
         "HashCode": -958057155,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onpointerover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9995,11 +9995,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 503644011,
 =======
         "HashCode": -402745376,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onpointerup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10082,11 +10082,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -16415337,
 =======
         "HashCode": -2104524459,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "oncanplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10169,11 +10169,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 338866354,
 =======
         "HashCode": -683539745,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "oncanplaythrough",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10256,11 +10256,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1037167172,
 =======
         "HashCode": -670020583,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "oncuechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10343,11 +10343,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -249677481,
 =======
         "HashCode": -1937771139,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ondurationchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10430,11 +10430,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -556926918,
 =======
         "HashCode": 490062033,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onemptied",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10517,11 +10517,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1520483558,
 =======
         "HashCode": -549922586,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onpause",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10604,11 +10604,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 830656144,
 =======
         "HashCode": 1450541524,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10691,11 +10691,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 57881282,
 =======
         "HashCode": 1420710747,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onplaying",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10778,11 +10778,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -507099155,
 =======
         "HashCode": 140747672,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onratechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10865,11 +10865,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -613915328,
 =======
         "HashCode": 1272331249,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onseeked",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10952,11 +10952,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -511674795,
 =======
         "HashCode": -2051357776,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onseeking",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11039,11 +11039,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 607132129,
 =======
         "HashCode": -1718372252,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onstalled",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11126,11 +11126,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 773709042,
 =======
         "HashCode": 849444376,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onstop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11213,11 +11213,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 934635550,
 =======
         "HashCode": -1377281566,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onsuspend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11300,11 +11300,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -170739438,
 =======
         "HashCode": -1746484388,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ontimeupdate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11387,11 +11387,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -386103216,
 =======
         "HashCode": 750039017,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onvolumechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11474,11 +11474,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 582578996,
 =======
         "HashCode": -1713766128,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onwaiting",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11561,11 +11561,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1810742868,
 =======
         "HashCode": -1665683437,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onloadstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11648,11 +11648,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 789331082,
 =======
         "HashCode": 1563327804,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ontimeout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11735,11 +11735,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -2070793587,
 =======
         "HashCode": 1253936299,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onabort",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11822,11 +11822,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1059496046,
 =======
         "HashCode": 151581632,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onload",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11909,11 +11909,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1050532040,
 =======
         "HashCode": 1744229700,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onloadend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11996,11 +11996,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1736271713,
 =======
         "HashCode": -1906047599,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onprogress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12083,11 +12083,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1329540361,
 =======
         "HashCode": 1290616615,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12170,11 +12170,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1902668259,
 =======
         "HashCode": 199383113,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12257,11 +12257,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -732918503,
 =======
         "HashCode": 1359623957,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onbeforeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12344,11 +12344,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1710845510,
 =======
         "HashCode": 179860192,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onbeforedeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12431,11 +12431,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -703574288,
 =======
         "HashCode": -781023034,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ondeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12518,11 +12518,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1546689181,
 =======
         "HashCode": 827636515,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onended",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12605,11 +12605,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 541268908,
 =======
         "HashCode": 459120311,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12692,11 +12692,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 2044097641,
 =======
         "HashCode": 221749594,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12779,11 +12779,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 17796636,
 =======
         "HashCode": -1262869203,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onloadeddata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12866,11 +12866,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1640214506,
 =======
         "HashCode": 754043831,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onloadedmetadata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12953,11 +12953,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1460919379,
 =======
         "HashCode": -2036342016,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13040,11 +13040,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1600887900,
 =======
         "HashCode": -678561915,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13127,11 +13127,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 522227047,
 =======
         "HashCode": -84145871,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onreadystatechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13214,11 +13214,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -739725193,
 =======
         "HashCode": -781833521,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "onscroll",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13301,11 +13301,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1345474275,
 =======
         "HashCode": -1024057394,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.EventHandler",
         "Name": "ontoggle",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13388,11 +13388,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1652848683,
 =======
         "HashCode": -1219052686,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Splat",
         "Name": "Attributes",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13431,11 +13431,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 428750237,
 =======
         "HashCode": -1552115137,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.Razor",
@@ -13752,11 +13752,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -852655435,
 =======
         "HashCode": 1794331501,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13955,11 +13955,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -436192464,
 =======
         "HashCode": 712221839,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.CacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14088,11 +14088,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1475617530,
 =======
         "HashCode": -1414064402,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ComponentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14149,11 +14149,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1413982699,
 =======
         "HashCode": -1718518365,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.DistributedCacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14287,11 +14287,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -116494190,
 =======
         "HashCode": -1306309251,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14339,11 +14339,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 478285080,
 =======
         "HashCode": -1531462662,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormActionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14762,11 +14762,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 687270527,
 =======
         "HashCode": 1870676279,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14870,11 +14870,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -369658206,
 =======
         "HashCode": 518535135,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ImageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14922,11 +14922,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -881090577,
 =======
         "HashCode": -479007669,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14998,11 +14998,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -776990804,
 =======
         "HashCode": 831487895,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15037,11 +15037,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1191459021,
 =======
         "HashCode": 1704021470,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15239,11 +15239,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 2008028329,
 =======
         "HashCode": 1337744831,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.OptionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15273,11 +15273,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1782929574,
 =======
         "HashCode": -50272560,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15360,11 +15360,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1073989930,
 =======
         "HashCode": 743295932,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PersistComponentStateTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15395,11 +15395,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -736198038,
 =======
         "HashCode": -1045683787,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ScriptTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15554,11 +15554,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1814276225,
 =======
         "HashCode": 1604356481,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15619,11 +15619,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -618116605,
 =======
         "HashCode": -2004235418,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.TextAreaTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15667,11 +15667,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 119946281,
 =======
         "HashCode": -1840093508,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15706,11 +15706,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1255836436,
 =======
         "HashCode": -1476895032,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15746,11 +15746,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -276955305,
 =======
         "HashCode": 1601786959,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15846,11 +15846,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1521485410,
 =======
         "HashCode": -1792039630,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15972,11 +15972,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1065188882,
 =======
         "HashCode": 18736414,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16098,11 +16098,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 94940624,
 =======
         "HashCode": 2076469363,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16235,11 +16235,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 657034226,
 =======
         "HashCode": -620958798,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16372,11 +16372,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 459642316,
 =======
         "HashCode": -1995542170,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16509,11 +16509,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1750971878,
 =======
         "HashCode": -868841112,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16646,11 +16646,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1142335060,
 =======
         "HashCode": 2021842914,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16783,11 +16783,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -36489569,
 =======
         "HashCode": 623588000,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16920,11 +16920,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 138680638,
 =======
         "HashCode": -709677552,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17057,11 +17057,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1543200360,
 =======
         "HashCode": 610232588,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17194,11 +17194,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1472011994,
 =======
         "HashCode": 1213463685,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17331,11 +17331,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1324485337,
 =======
         "HashCode": -196576344,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17468,11 +17468,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1630146079,
 =======
         "HashCode": -2073170618,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17605,11 +17605,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1624162602,
 =======
         "HashCode": -449553949,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17742,11 +17742,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -813523226,
 =======
         "HashCode": -213556165,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17868,11 +17868,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 391264574,
 =======
         "HashCode": 1001260861,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17994,11 +17994,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -927523771,
 =======
         "HashCode": 1077087169,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18085,11 +18085,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1885953748,
 =======
         "HashCode": 419686641,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18177,11 +18177,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1649117970,
 =======
         "HashCode": 1117055254,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18268,11 +18268,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1687890786,
 =======
         "HashCode": -1765842176,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18360,11 +18360,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1317789166,
 =======
         "HashCode": 288959361,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18451,11 +18451,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1099329085,
 =======
         "HashCode": -796819248,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18543,11 +18543,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1954735044,
 =======
         "HashCode": -602805798,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18634,11 +18634,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1303260255,
 =======
         "HashCode": 1377558269,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18726,11 +18726,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1610362699,
 =======
         "HashCode": 2077468229,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18817,11 +18817,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 817103526,
 =======
         "HashCode": -486363151,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18909,11 +18909,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -726710122,
 =======
         "HashCode": -1120236080,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19000,11 +19000,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1279684197,
 =======
         "HashCode": -1096819610,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19092,11 +19092,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1422517567,
 =======
         "HashCode": 1142217278,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19183,11 +19183,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -502541121,
 =======
         "HashCode": 1293015859,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19275,11 +19275,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": 1907244093,
 =======
         "HashCode": 319420114,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Ref",
         "Name": "Ref",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19318,11 +19318,11 @@
         }
       },
       {
-<<<<<<< HEAD
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "HashCode": -1048599775,
 =======
         "HashCode": 620665572,
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
         "Kind": "Components.Key",
         "Name": "Key",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19363,101 +19363,105 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "CRUDelicious",
+  "RootNamespace": "LoginAndRegistration",
   "Documents": [
     {
-<<<<<<< HEAD
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Home\\CreateANewDish.cshtml",
-      "TargetPath": "Views\\Home\\CreateANewDish.cshtml",
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\LoginAndRegistration\\Views\\Forms\\_LoginForm.cshtml",
+      "TargetPath": "Views\\Forms\\_LoginForm.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Home\\Dishes.cshtml",
-      "TargetPath": "Views\\Home\\Dishes.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Home\\EditADish.cshtml",
-      "TargetPath": "Views\\Home\\EditADish.cshtml",
-      "FileKind": "mvc"
-    },
-    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\LoginAndRegistration\\Views\\Home\\Index.cshtml",
 =======
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Home\\Dishes.cshtml",
-      "TargetPath": "Views\\Home\\Dishes.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Home\\ShowADish.cshtml",
-      "TargetPath": "Views\\Home\\ShowADish.cshtml",
-      "FileKind": "mvc"
-    },
-    {
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\LoginAndRegistration\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-<<<<<<< HEAD
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\LoginAndRegistration\\Views\\Home\\Index.cshtml",
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\LoginAndRegistration\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\LoginAndRegistration\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Home\\ShowADish.cshtml",
-      "TargetPath": "Views\\Home\\ShowADish.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\LoginAndRegistration\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-=======
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\LoginAndRegistration\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\LoginAndRegistration\\Views\\Home\\Dashboard.cshtml",
+      "TargetPath": "Views\\Home\\Dashboard.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\LoginAndRegistration\\Views\\Shared\\Error.cshtml",
+=======
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\LoginAndRegistration\\Views\\Shared\\Error.cshtml",
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
-<<<<<<< HEAD
-=======
     },
     {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Home\\CreateANewDish.cshtml",
-      "TargetPath": "Views\\Home\\CreateANewDish.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Home\\Privacy.cshtml",
+<<<<<<< HEAD:cSharp/ASPdotnetCore/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\LoginAndRegistration\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\CRUDelicious\\Views\\Home\\EditADish.cshtml",
-      "TargetPath": "Views\\Home\\EditADish.cshtml",
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\LoginAndRegistration\\Views\\Forms\\_RegistrationForm.cshtml",
+      "TargetPath": "Views\\Forms\\_RegistrationForm.cshtml",
+=======
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\LoginAndRegistration\\Views\\Forms\\_LoginForm.cshtml",
+      "TargetPath": "Views\\Forms\\_LoginForm.cshtml",
+>>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b:cSharp/ORMs/LoginAndRegistration/obj/Debug/net6.0/project.razor.json
       "FileKind": "mvc"
->>>>>>> 1b0dc48254fdb79788d12ce36a5a821a966cd04b
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\LoginAndRegistration\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\LoginAndRegistration\\Views\\Home\\Dashboard.cshtml",
+      "TargetPath": "Views\\Home\\Dashboard.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\LoginAndRegistration\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\LoginAndRegistration\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\LoginAndRegistration\\Views\\Forms\\_RegistrationForm.cshtml",
+      "TargetPath": "Views\\Forms\\_RegistrationForm.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\LoginAndRegistration\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.3"
