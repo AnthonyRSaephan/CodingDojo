@@ -9,6 +9,8 @@ public class Dish
     public int DishId { get; set; }
 
     public string Name {get;set;}
+
+    [Range(1, Int32.MaxValue)]
     public int Calories {get;set;}
     public int Tastiness {get;set;}
 

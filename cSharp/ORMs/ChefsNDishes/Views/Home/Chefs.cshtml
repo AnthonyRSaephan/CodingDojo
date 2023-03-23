@@ -29,7 +29,7 @@
         {
             <tr>
                 <td>@chef.FirstName @chef.LastName</td>
-                <td>@chef.DateOfBirth</td>
+                <td>@(DateTime.Now.Year - chef.DateOfBirth.Year)</td>
                 <td>@chef.Dishes.Count</td>
             </tr>
         }

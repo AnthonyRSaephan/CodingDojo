@@ -38,10 +38,22 @@ public class HomeController : Controller
     [HttpGet("/dishes/new")]
     public IActionResult AddADish()
     {
-        return View();
+        ViewBag.Chefs = context.chefs.ToList();
+        return View("AddADish");
     }
 
     //! POST
+    [HttpPost("/dishes/create")]
+    public IActionResult CreateADish(Dish dish)
+    {
+        if(ModelState.IsValid == false)
+        {
+            // return View("AddADish");
+            return AddADish();
+        }
+
+        return RedirectToAction("Dishes");
+    }
 
     [HttpPost("/chefs/create")]
     public IActionResult CreateAChef(Chef newChef)

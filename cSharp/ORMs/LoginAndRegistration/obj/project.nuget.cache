@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WorIcPOwqgIIJ0bLucUp2CF3DwQBXpoVAUq2+0EkLU2kz+y4jkVeukrB9DdqJFVSs+458fd01MP0Gtgqt7gUBQ==",
+  "dgSpecHash": "bFe5fPyBkhbTG5M4ICVA/6ukVV4eeOHuBvGgAn8JCzj5HIcxP17aWeEslq2LMp3tFZtkCtfzXL+lqy9j1ISqJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ASPdotnetCore\\LoginAndRegistration\\LoginAndRegistration.csproj",
+  "projectFilePath": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\LoginAndRegistration\\LoginAndRegistration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\antho\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\antho\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
