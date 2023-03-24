@@ -1,0 +1,37 @@
+@{
+    ViewData["Title"] = "Add Category Products";
+}
+@model Association
+
+<h4>
+    <a href="/">Products</a>
+    |
+    <a href="/categories">Categories</a>
+</h4>
+
+<h1>@ViewBag.category.Name</h1>
+<hr>
+
+<h4>Products</h4>
+<hr>
+@foreach (Association association in ViewBag.category.Associations)
+{
+    <h6>@association.Product.Name</h6>
+}
+<hr>
+<h4>Add Product</h4>
+<form asp-action="AddCategoryProducts" asp-controller="Home">
+    <input hidden name="CategoryId" value="@ViewBag.category.CategoryId">
+    @if (ViewBag.products.Count > 0)
+    {
+        <select name="ProductId">
+            @foreach (Product product in ViewBag.products)
+            {
+                <option value="@product.ProductId">@product.Name</option>
+            }
+        </select>
+
+        <button class="btn btn-success">Add</button>
+    }
+
+</form>
