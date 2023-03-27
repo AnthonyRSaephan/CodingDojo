@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Login or Register";
+}
+
+
+
+
+<div class="d-flex justify-content-center gap-5">
+    <div>
+        @await Html.PartialAsync("~/Views/Forms/_RegisterForm.cshtml")
+    </div>
+    <div>
+        @await Html.PartialAsync("~/Views/Forms/_LoginForm.cshtml")
+    </div>
+</div>

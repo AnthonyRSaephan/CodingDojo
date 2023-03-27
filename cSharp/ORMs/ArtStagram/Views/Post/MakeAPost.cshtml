@@ -1,0 +1,37 @@
+@{
+    ViewData["Title"] = "Create a Post";
+}
+@model Post
+
+@await Html.PartialAsync("~/Views/Shared/_navbar.cshtml")
+
+<h4>Make a post</h4>
+
+<form asp-action="CreatePost" asp-controller="Post">
+    
+    <div class="mb-3">
+        <label asp-for="ImageUrl"></label>
+        <input asp-for="ImageUrl" class="form-control">
+        <span asp-validation-for="ImageUrl" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control">
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Medium"></label>
+        <input asp-for="Medium" class="form-control">
+        <span asp-validation-for="Medium" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="ForSale"></label>
+        <input asp-for="ForSale" >
+        <span asp-validation-for="ForSale" class="text-danger"></span>
+    </div>
+
+    <button class="btn btn-success">Post</button>
+</form>

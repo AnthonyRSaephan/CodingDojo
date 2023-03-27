@@ -1,0 +1,33 @@
+@{
+    ViewData["Title"] = "Post";
+}
+@model Post
+
+@await Html.PartialAsync("~/Views/Shared/_navbar.cshtml")
+
+
+
+<div class="d-flex justify-content-center gap-5">
+    <div>
+        <h1>@Model.Title</h1>
+        <img src="@Model.ImageUrl" alt="@Model.Title">
+    </div>
+    <div>
+        <p>By: @Model.Author.Name</p>
+        <p>Medium: @Model.Medium</p>
+        @if (Model.ForSale)
+        {
+            <p>For Sale</p>
+        }
+        else
+        {
+            <p>Not For Sale</p>
+        }
+        
+        @if (@Model.AuthorId == Context.Session.GetInt32("UserId"))
+        {
+            <a>Edit</a>
+            <a>Delete</a>
+        }
+    </div>
+</div>

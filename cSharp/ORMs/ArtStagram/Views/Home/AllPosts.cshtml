@@ -1,0 +1,43 @@
+@{
+    ViewData["Title"] = "Posts";
+}
+@model List<Post>
+
+@await Html.PartialAsync("~/Views/Shared/_navbar.cshtml")
+
+@foreach (Post post in Model)
+{
+    <div class="card" style="width: 18rem;">
+        <img src="@post.ImageUrl" class="card-img-top" alt="@post.Title">
+        <div class="card-body">
+            <h5 class="card-title"><a asp-action="ShowAPost" asp-controller="Post" asp-route-id="@post.PostId">@post.Title</a></h5>
+            <p class="card-text">By: @post.Author.Name</p>
+            <p class="card-text">Medium: @post.Medium</p>
+            @if (post.ForSale)
+            {
+                <p class="card-text">For Sale</p>
+            }
+            else
+            {
+                <p class="card-text">Not For Sale</p>
+            }
+            <p class="card-text">@post.Likes Likes</p>
+            @if (Context.Session.GetInt32("UserId") == post.AuthorId)
+            {
+                <a>Edit</a>
+                <a>Delete</a>
+            }
+            else
+            {
+                @* if(post.Likes)
+                {
+                    <a asp-action="LikeAPost" asp-controller="Post" asp-route-id="@post.PostId" asp-route-action="AllPosts" asp-route-controller="Home">Like</a>
+                }
+                else
+                {
+                    <a>Unlike</a>
+                } *@
+            }
+        </div>
+    </div>
+}
