@@ -1,43 +1,54 @@
 @{
     ViewData["Title"] = "Posts";
 }
-@model List<Post>
+@model AllPostsModel
 
 @await Html.PartialAsync("~/Views/Shared/_navbar.cshtml")
 
-@foreach (Post post in Model)
-{
-    <div class="card" style="width: 18rem;">
-        <img src="@post.ImageUrl" class="card-img-top" alt="@post.Title">
-        <div class="card-body">
-            <h5 class="card-title"><a asp-action="ShowAPost" asp-controller="Post" asp-route-id="@post.PostId">@post.Title</a></h5>
-            <p class="card-text">By: @post.Author.Name</p>
-            <p class="card-text">Medium: @post.Medium</p>
-            @if (post.ForSale)
-            {
-                <p class="card-text">For Sale</p>
-            }
-            else
-            {
-                <p class="card-text">Not For Sale</p>
-            }
-            <p class="card-text">@post.Likes Likes</p>
-            @if (Context.Session.GetInt32("UserId") == post.AuthorId)
-            {
-                <a>Edit</a>
-                <a>Delete</a>
-            }
-            else
-            {
-                @* if(post.Likes)
+<div class="d-flex justify-content-start gap-3">
+    @foreach (Post post in Model.AllPosts)
+    {
+        <div class="card" style="width: 18rem;">
+            <img src="@post.ImageUrl" class="card-img-top" alt="@post.Title">
+            <div class="card-body">
+                <h5 class="card-title"><a asp-action="ShowAPost" asp-controller="Post"
+                    asp-route-id="@post.PostId">@post.Title</a></h5>
+                <p class="card-text">By: @post.Author.Name</p>
+                <p class="card-text">Medium: @post.Medium</p>
+                @if (post.ForSale)
                 {
-                    <a asp-action="LikeAPost" asp-controller="Post" asp-route-id="@post.PostId" asp-route-action="AllPosts" asp-route-controller="Home">Like</a>
+                    <p class="card-text">For Sale</p>
                 }
                 else
                 {
-                    <a>Unlike</a>
-                } *@
-            }
+                    <p class="card-text">Not For Sale</p>
+                }
+                <p class="card-text">@post.Likes Likes</p>
+                @if (Context.Session.GetInt32("UserId") == post.AuthorId)
+                {
+                    <a asp-action="EditAPost" asp-controller="Post" asp-route-id="@post.PostId">Edit</a>
+                    <form asp-action="DeletePost" asp-controller="Post" asp-route-id="@post.PostId">
+                        <a href="#" onclick="this.parentNode.submit();">Delete</a>
+                    </form>
+                }
+                else
+                {
+                    if (Model.UserLikedPosts.Contains(post))
+                    {
+                        <form asp-action="UnlikeAPost" asp-controller="Post" asp-route-id="@post.PostId"
+                asp-route-_action="AllPosts" asp-route-_controller="Home">
+                            <a href="#" onclick="this.parentNode.submit();">Unlike</a>
+                        </form>
+                    }
+                    else
+                    {
+                        <form asp-action="LikeAPost" asp-controller="Post" asp-route-id="@post.PostId" asp-route-_action="AllPosts"
+                asp-route-_controller="Home">
+                            <a href="#" onclick="this.parentNode.submit();">Like</a>
+                        </form>
+                    }
+                }
+            </div>
         </div>
-    </div>
-}
+    }
+</div>

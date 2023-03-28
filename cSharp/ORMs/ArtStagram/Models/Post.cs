@@ -19,7 +19,7 @@ public class Post
     public int AuthorId {get;set;}
     public User? Author {get;set;}
 
-    List<LikedPost> LikedByUsers {get;set;} = new List<LikedPost>();
+    public List<LikedPost> LikedByUsers {get;set;} = new List<LikedPost>();
 
     public DateTime CreatedAt {get;set;} = DateTime.Now;
     public DateTime UpdatedAt {get;set;} = DateTime.Now;

@@ -19,6 +19,7 @@ public class HomeController : Controller
     }
 
     //! GET
+    [HomeCheck]
     [HttpGet("/")]
     public IActionResult Index()
     {
@@ -29,12 +30,20 @@ public class HomeController : Controller
     [HttpGet("/posts")]
     public IActionResult AllPosts()
     {
-        List<Post> allPosts = context.posts.Include(p => p.Author).ToList();
+        List<Post> allPosts = context.posts.Include(p => p.Author).OrderByDescending(p => p.UpdatedAt).ToList();
         User? user= context.users.Include(u => u.LikedPosts)
         .ThenInclude(l => l.Post)
         .SingleOrDefault(u => u.UserId == HttpContext.Session.GetInt32("UserId"));
-        
-        return View(allPosts);
+
+        AllPostsModel model = new AllPostsModel();
+        model.AllPosts = allPosts;
+        List<Post> userLikedPosts = new List<Post>();
+        foreach(LikedPost likedPost in user.LikedPosts)
+        {
+            userLikedPosts.Add(likedPost.Post);
+        }
+        model.UserLikedPosts = userLikedPosts;
+        return View(model);
     }
 
     //! POST
@@ -121,6 +130,22 @@ public class SessionCheckAttribute : ActionFilterAttribute
             // Redirect to the Index page if there was nothing in session
             // "Home" here is referring to "HomeController", you can use any controller that is appropriate here
             context.Result = new RedirectToActionResult("Index", "Home", null);
+        }
+    }
+}
+
+public class HomeCheckAttribute : ActionFilterAttribute
+{
+    public override void OnActionExecuting(ActionExecutingContext context)
+    {
+        // Find the session, but remember it may be null so we need int?
+        int? userId = context.HttpContext.Session.GetInt32("UserId");
+        // Check to see if we got back null
+        if (userId != null)
+        {
+            // Redirect to the Index page if there was nothing in session
+            // "Home" here is referring to "HomeController", you can use any controller that is appropriate here
+            context.Result = new RedirectToActionResult("AllPosts", "Home", null);
         }
     }
 }

@@ -1,7 +1,7 @@
 @{
     ViewData["Title"] = "Post";
 }
-@model Post
+@model ShowAPostModel
 
 @await Html.PartialAsync("~/Views/Shared/_navbar.cshtml")
 
@@ -9,13 +9,13 @@
 
 <div class="d-flex justify-content-center gap-5">
     <div>
-        <h1>@Model.Title</h1>
-        <img src="@Model.ImageUrl" alt="@Model.Title">
+        <h1>@Model.Post.Title</h1>
+        <img src="@Model.Post.ImageUrl" alt="@Model.Post.Title" style="width: 200px; height: 200px;">
     </div>
     <div>
-        <p>By: @Model.Author.Name</p>
-        <p>Medium: @Model.Medium</p>
-        @if (Model.ForSale)
+        <p>By: @Model.Post.Author.Name</p>
+        <p>Medium: @Model.Post.Medium</p>
+        @if (Model.Post.ForSale)
         {
             <p>For Sale</p>
         }
@@ -23,11 +23,32 @@
         {
             <p>Not For Sale</p>
         }
-        
-        @if (@Model.AuthorId == Context.Session.GetInt32("UserId"))
+
+        <p>@Model.Post.Likes Likes</p>
+
+        @if (Context.Session.GetInt32("UserId") == Model.Post.AuthorId)
         {
-            <a>Edit</a>
-            <a>Delete</a>
+            <a asp-action="EditAPost" asp-controller="Post" asp-route-id="@Model.Post.PostId">Edit</a>
+            <form asp-action="DeletePost" asp-controller="Post" asp-route-id="@Model.Post.PostId">
+                <a href="#" onclick="this.parentNode.submit();">Delete</a>
+            </form>
+        }
+        else
+        {
+            @if (Model.UserLikedPost)
+            {
+                <form asp-action="UnlikeAPost" asp-controller="Post" asp-route-id="@Model.Post.PostId"
+            asp-route-_action="ShowAPost" asp-route-_controller="Post">
+                    <a href="#" onclick="this.parentNode.submit();">Unlike</a>
+                </form>
+            }
+            else
+            {
+                <form asp-action="LikeAPost" asp-controller="Post" asp-route-id="@Model.Post.PostId"
+            asp-route-_action="ShowAPost" asp-route-_controller="Post">
+                    <a href="#" onclick="this.parentNode.submit();">Like</a>
+                </form>
+            }
         }
     </div>
 </div>
