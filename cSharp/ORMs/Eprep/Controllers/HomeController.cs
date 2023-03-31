@@ -31,6 +31,7 @@ public class HomeController : Controller
     public IActionResult AllPosts()
     {
         List<Post> allPosts = context.posts.Include(p => p.Author).OrderByDescending(p => p.UpdatedAt).ToList();
+        
         User? user= context.users.Include(u => u.LikedPosts)
         .ThenInclude(l => l.Post)
         .SingleOrDefault(u => u.UserId == HttpContext.Session.GetInt32("UserId"));

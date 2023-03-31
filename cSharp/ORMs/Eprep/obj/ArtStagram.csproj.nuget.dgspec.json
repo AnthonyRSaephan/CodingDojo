@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ArtStagram\\ArtStagram.csproj": {}
+    "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\Eprep\\ArtStagram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ArtStagram\\ArtStagram.csproj": {
+    "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\Eprep\\ArtStagram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ArtStagram\\ArtStagram.csproj",
+        "projectUniqueName": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\Eprep\\ArtStagram.csproj",
         "projectName": "ArtStagram",
-        "projectPath": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ArtStagram\\ArtStagram.csproj",
+        "projectPath": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\Eprep\\ArtStagram.csproj",
         "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ArtStagram\\obj\\",
+        "outputPath": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\Eprep\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\antho\\AppData\\Roaming\\NuGet\\NuGet.Config"

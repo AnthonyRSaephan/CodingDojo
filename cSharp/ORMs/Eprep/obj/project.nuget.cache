@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/xEZo43wFRWG2SaYq2ifRyzzJB2e+uJEBx5h325fDZgl3AucibbIrF/vuY5RmZVZkvSgr8aBGqLhwsdx3uYBLg==",
+  "dgSpecHash": "R2awikjsCikh7k9ZgkyqXrUl2/BBRJ6E+50U8xE3/RlHB2l0OXMaAv8tG/89wvX0ir4TvbSeEsOGgYa0YaaRFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\ArtStagram\\ArtStagram.csproj",
+  "projectFilePath": "C:\\Users\\antho\\Desktop\\CodingDojo\\cSharp\\ORMs\\Eprep\\ArtStagram.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\antho\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\antho\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
